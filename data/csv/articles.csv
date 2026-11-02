@@ -1,0 +1,2117 @@
+article_id,title,section_id,author_id,publish_date,article_type,word_count,is_paywalled
+1,Campaigns Shift Strategy Before Midterms,1,2,2024-12-15,News,1576,1
+2,Airlines Brace for Slower Holiday Sales,3,12,2024-12-15,News,1540,1
+3,It Is Time to Rethink Local News,5,21,2024-12-15,Opinion,738,1
+4,Young Painters Find a New Audience,7,28,2024-12-15,Feature,1774,1
+5,One-Pan Pasta With Greens,9,39,2024-12-15,Recipe,695,1
+6,Governors Debate New Budget Plan,1,2,2024-12-16,News,1444,1
+7,Chip Companies Raise Prices Again,4,16,2024-12-16,Feature,1353,1
+8,Marathon Runners Clinch a Thrilling Win,6,22,2024-12-16,News,1139,1
+9,Researchers Map a Warming Ocean,8,35,2024-12-16,Analysis,892,1
+10,Five-Ingredient Lemon Chicken,9,40,2024-12-16,Recipe,592,1
+11,Governors Clash Over Tax Proposal,1,1,2024-12-17,News,1265,1
+12,UN Envoys Respond to Refugee Crisis,2,8,2024-12-17,Feature,2723,1
+13,Airlines Bet Big on Electric Future,3,12,2024-12-17,Feature,1213,1
+14,Social Platforms Race to Build Smarter Assistants,4,16,2024-12-17,News,589,1
+15,What Leaders Miss About Public Transit,5,19,2024-12-17,Opinion,366,1
+16,Five-Ingredient Salmon Bowls,9,36,2024-12-17,Recipe,579,1
+17,Governors Shift Strategy Before Midterms,1,1,2024-12-18,Analysis,1845,1
+18,Senators Signal Compromise on Spending,1,4,2024-12-18,News,1303,1
+19,Aid Groups Sign Landmark Trade Pact,2,6,2024-12-18,Feature,759,1
+20,Social Platforms Race to Build Smarter Assistants,4,15,2024-12-18,Feature,2998,1
+21,Why We Affordable Housing,5,19,2024-12-18,Opinion,1033,1
+22,Rookie Quarterbacks Struggle Through Losing Streak,6,23,2024-12-18,Analysis,961,0
+23,Weeknight Pasta With Greens,9,38,2024-12-18,Recipe,1134,1
+24,Senators Face Pressure Over Housing Bill,1,2,2024-12-19,News,1534,1
+25,City Council Members Debate New Budget Plan,1,1,2024-12-19,News,1540,1
+26,Regional Allies Sign Landmark Trade Pact,2,6,2024-12-19,News,742,1
+27,Automakers Report Stronger-Than-Expected Profits,3,11,2024-12-19,News,871,0
+28,Social Platforms Prepare for Major Outage Risks,4,15,2024-12-19,News,679,1
+29,The Hidden Cost of Remote Work,5,18,2024-12-19,Opinion,779,1
+30,Liberty Players Struggle Through Losing Streak,6,25,2024-12-19,Live Update,641,0
+31,Governors Shift Strategy Before Midterms,1,2,2024-12-20,Analysis,1413,1
+32,Coastal Nations Sign Landmark Trade Pact,2,8,2024-12-20,News,1159,1
+33,Retailers Cut Jobs as Costs Rise,3,9,2024-12-20,News,1263,1
+34,The Yankees Look Ahead to Playoffs,6,24,2024-12-20,News,565,0
+35,Subway Riders Adapt to New Rules,10,45,2024-12-20,News,1225,1
+36,Voters Signal Compromise on Spending,1,3,2024-12-21,Analysis,1313,1
+37,Automakers Brace for Slower Holiday Sales,3,9,2024-12-21,Analysis,1674,1
+38,In Defense of Public Transit,5,18,2024-12-21,Opinion,1415,1
+39,Tennis Stars Clinch a Thrilling Win,6,23,2024-12-21,Analysis,661,1
+40,Engineers Discover Surprising Signal,8,32,2024-12-21,Feature,2228,1
+41,Crispy Lentil Soup,9,40,2024-12-21,Recipe,759,1
+42,Brooklyn Residents Celebrate a Neighborhood Revival,10,45,2024-12-21,News,996,1
+43,House Leaders Shift Strategy Before Midterms,1,2,2024-12-22,News,1446,1
+44,The Case for Small Cities,5,19,2024-12-22,Opinion,766,1
+45,The Knicks Look Ahead to Playoffs,6,23,2024-12-22,News,781,1
+46,Indie Filmmakers Find a New Audience,7,28,2024-12-22,News,1536,1
+47,House Leaders Signal Compromise on Spending,1,5,2024-12-23,News,1187,1
+48,Aid Groups Push for Ceasefire Talks,2,7,2024-12-23,News,1316,1
+49,Retailers Face New Interest Rate Reality,3,12,2024-12-23,Feature,2066,1
+50,Chip Companies Raise Prices Again,4,15,2024-12-23,Analysis,1274,1
+51,The Yankees Return From Injury,6,22,2024-12-23,Analysis,512,1
+52,City Council Members Debate New Budget Plan,1,5,2024-12-24,Live Update,791,0
+53,Senators Shift Strategy Before Midterms,1,4,2024-12-24,News,1660,1
+54,Trade Ministers Agree on New Climate Targets,2,6,2024-12-24,News,968,1
+55,Banks Brace for Slower Holiday Sales,3,12,2024-12-24,News,1430,1
+56,Cybersecurity Teams Face New Privacy Rules,4,16,2024-12-24,Analysis,975,1
+57,It Is Time to Rethink Small Cities,5,17,2024-12-24,Opinion,933,1
+58,Liberty Players Break a Season Record,6,25,2024-12-24,News,958,1
+59,Researchers Discover Surprising Signal,8,35,2024-12-24,News,1032,1
+60,Slow-Cooker Vegetable Curry,9,38,2024-12-24,Recipe,679,1
+61,Voters Shift Strategy Before Midterms,1,3,2024-12-25,Analysis,602,1
+62,Coastal Nations Agree on New Climate Targets,2,6,2024-12-25,News,1104,1
+63,Tech Giants Report Stronger-Than-Expected Profits,3,11,2024-12-25,Analysis,855,1
+64,Smartphone Makers Struggle to Keep Users,4,14,2024-12-25,Feature,2437,1
+65,Astronomers Discover Surprising Signal,8,33,2024-12-25,Feature,2260,0
+66,Weeknight Lentil Soup,9,40,2024-12-25,Recipe,603,1
+67,Subway Riders Prepare for Winter Storm,10,42,2024-12-25,Live Update,610,0
+68,Governors Debate New Budget Plan,1,3,2024-12-26,Feature,3018,1
+69,Aid Groups Agree on New Climate Targets,2,8,2024-12-26,News,1044,1
+70,Cybersecurity Teams Struggle to Keep Users,4,15,2024-12-26,News,1055,1
+71,Engineers Track Vanishing Species,8,33,2024-12-26,News,1349,1
+72,Slow-Cooker Salmon Bowls,9,39,2024-12-26,Recipe,743,1
+73,Bronx Tenants Adjust to Fare Changes,10,43,2024-12-26,News,1233,1
+74,Campaigns Shift Strategy Before Midterms,1,1,2024-12-27,Feature,2536,1
+75,Senators Signal Compromise on Spending,1,4,2024-12-27,News,1315,1
+76,European Leaders Meet Amid Rising Tensions,2,7,2024-12-27,Analysis,1533,1
+77,Tech Giants Bet Big on Electric Future,3,11,2024-12-27,News,1386,1
+78,Why We Affordable Housing,5,20,2024-12-27,Opinion,470,1
+79,Marine Biologists Build Cleaner Batteries,8,35,2024-12-27,Analysis,1376,1
+80,Governors Face Pressure Over Housing Bill,1,4,2024-12-28,Feature,2264,1
+81,Banks Face New Interest Rate Reality,3,9,2024-12-28,News,1529,1
+82,Social Platforms Prepare for Major Outage Risks,4,14,2024-12-28,Feature,2057,1
+83,The Hidden Cost of Local News,5,21,2024-12-28,Opinion,787,1
+84,Five-Ingredient Lemon Chicken,9,38,2024-12-28,Recipe,616,1
+85,Queens Restaurants Fight Rising Rents,10,42,2024-12-28,Analysis,1159,1
+86,Campaigns Shift Strategy Before Midterms,1,3,2024-12-29,Analysis,1081,1
+87,Small Businesses Face New Interest Rate Reality,3,11,2024-12-29,News,1658,1
+88,Streaming Services Prepare for Major Outage Risks,4,15,2024-12-29,News,657,1
+89,In Defense of Remote Work,5,19,2024-12-29,Opinion,1111,1
+90,The Knicks Clinch a Thrilling Win,6,24,2024-12-29,Feature,1425,0
+91,Five-Ingredient Apple Cake,9,39,2024-12-29,Recipe,800,1
+92,Bronx Tenants Adjust to Fare Changes,10,45,2024-12-29,Analysis,907,1
+93,City Council Members Weigh Election Reform,1,4,2024-12-30,News,1098,1
+94,Trade Ministers Agree on New Climate Targets,2,7,2024-12-30,News,1226,1
+95,AI Startups Struggle to Keep Users,4,15,2024-12-30,Analysis,867,1
+96,Jazz Musicians Find a New Audience,7,28,2024-12-30,Live Update,468,0
+97,Climate Scientists Track Vanishing Species,8,32,2024-12-30,Feature,1542,0
+98,Governors Face Pressure Over Housing Bill,1,2,2024-12-31,News,1210,1
+99,Campaigns Signal Compromise on Spending,1,2,2024-12-31,News,1299,0
+100,Trade Ministers Push for Ceasefire Talks,2,7,2024-12-31,Analysis,1374,1
+101,Automakers Report Stronger-Than-Expected Profits,3,9,2024-12-31,News,869,1
+102,What Leaders Miss About Public Transit,5,18,2024-12-31,Opinion,1316,1
+103,The Yankees Make a Bold Trade,6,24,2024-12-31,News,946,1
+104,Engineers Discover Surprising Signal,8,33,2024-12-31,Live Update,822,0
+105,Campaigns Shift Strategy Before Midterms,1,4,2025-01-01,News,1802,1
+106,Regional Allies Agree on New Climate Targets,2,8,2025-01-01,Analysis,1258,0
+107,Retailers Brace for Slower Holiday Sales,3,9,2025-01-01,Live Update,267,0
+108,Chip Companies Unveil Next-Generation Devices,4,15,2025-01-01,News,881,1
+109,It Is Time to Rethink Screen Time,5,18,2025-01-01,Opinion,726,0
+110,Marathon Runners Struggle Through Losing Streak,6,24,2025-01-01,News,865,1
+111,Engineers Discover Surprising Signal,8,33,2025-01-01,Feature,1861,1
+112,Governors Signal Compromise on Spending,1,4,2025-01-02,Feature,2160,1
+113,Trade Ministers Push for Ceasefire Talks,2,8,2025-01-02,News,1905,0
+114,Automakers Bet Big on Electric Future,3,13,2025-01-02,Live Update,805,0
+115,Bronx Tenants Adjust to Fare Changes,10,41,2025-01-02,Live Update,399,0
+116,Senators Signal Compromise on Spending,1,5,2025-01-03,Analysis,1298,1
+117,European Leaders Meet Amid Rising Tensions,2,7,2025-01-03,Live Update,734,0
+118,Banks Rethink Office Return Plans,3,13,2025-01-03,News,822,1
+119,Cybersecurity Teams Unveil Next-Generation Devices,4,16,2025-01-03,News,1182,1
+120,The Yankees Return From Injury,6,23,2025-01-03,Analysis,541,1
+121,Five-Ingredient Lemon Chicken,9,38,2025-01-03,Recipe,965,0
+122,City Council Members Weigh Election Reform,1,4,2025-01-04,News,1327,1
+123,Trade Ministers Warn of Food Shortages,2,7,2025-01-04,News,968,1
+124,Small Businesses Face New Interest Rate Reality,3,11,2025-01-04,Analysis,1545,1
+125,Streaming Services Raise Prices Again,4,16,2025-01-04,Analysis,1044,1
+126,Broadway Shows Divide the Critics,7,30,2025-01-04,News,892,1
+127,Slow-Cooker Lemon Chicken,9,38,2025-01-04,Recipe,482,1
+128,City Council Members Signal Compromise on Spending,1,5,2025-01-05,News,941,1
+129,European Leaders Sign Landmark Trade Pact,2,8,2025-01-05,News,1083,0
+130,Retailers Report Stronger-Than-Expected Profits,3,9,2025-01-05,Analysis,1189,1
+131,Social Platforms Struggle to Keep Users,4,16,2025-01-05,News,1026,1
+132,It Is Time to Rethink Public Transit,5,19,2025-01-05,Opinion,1123,1
+133,Jazz Musicians Capture the City's Mood,7,28,2025-01-05,Live Update,836,0
+134,Voters Signal Compromise on Spending,1,4,2025-01-06,News,1153,1
+135,Campaigns Shift Strategy Before Midterms,1,3,2025-01-06,Live Update,691,0
+136,UN Envoys Warn of Food Shortages,2,6,2025-01-06,Analysis,1077,1
+137,Automakers Brace for Slower Holiday Sales,3,9,2025-01-06,News,1056,1
+138,Smartphone Makers Struggle to Keep Users,4,15,2025-01-06,News,1268,0
+139,The Hidden Cost of Screen Time,5,17,2025-01-06,Opinion,983,1
+140,Tennis Stars Return From Injury,6,25,2025-01-06,Analysis,1198,1
+141,Governors Face Pressure Over Housing Bill,1,5,2025-01-07,Live Update,884,0
+142,European Leaders Agree on New Climate Targets,2,7,2025-01-07,News,1340,0
+143,Automakers Report Stronger-Than-Expected Profits,3,13,2025-01-07,News,887,1
+144,Campaigns Signal Compromise on Spending,1,2,2025-01-08,News,1209,1
+145,House Leaders Clash Over Tax Proposal,1,4,2025-01-08,Analysis,1699,1
+146,European Leaders Respond to Refugee Crisis,2,7,2025-01-08,Analysis,1303,0
+147,Small Businesses Face New Interest Rate Reality,3,13,2025-01-08,News,1222,1
+148,Social Platforms Race to Build Smarter Assistants,4,14,2025-01-08,News,879,1
+149,The Hidden Cost of Screen Time,5,21,2025-01-08,Opinion,737,1
+150,The Yankees Make a Bold Trade,6,22,2025-01-08,Analysis,1085,1
+151,Campaigns Shift Strategy Before Midterms,1,2,2025-01-09,Live Update,784,0
+152,Tech Giants Cut Jobs as Costs Rise,3,13,2025-01-09,News,1115,1
+153,Social Platforms Face New Privacy Rules,4,14,2025-01-09,News,709,1
+154,Easy Lentil Soup,9,39,2025-01-09,Recipe,808,1
+155,City Council Members Weigh Election Reform,1,2,2025-01-10,News,697,1
+156,City Council Members Debate New Budget Plan,1,4,2025-01-10,Live Update,552,0
+157,Coastal Nations Sign Landmark Trade Pact,2,7,2025-01-10,News,1069,1
+158,Automakers Cut Jobs as Costs Rise,3,12,2025-01-10,News,1128,1
+159,AI Startups Struggle to Keep Users,4,14,2025-01-10,Analysis,1311,1
+160,Subway Riders Push for Safer Streets,10,42,2025-01-10,News,859,1
+161,European Leaders Meet Amid Rising Tensions,2,7,2025-01-11,News,1310,0
+162,Small Businesses Bet Big on Electric Future,3,12,2025-01-11,Feature,549,1
+163,City Council Members Face Pressure Over Housing Bill,1,2,2025-01-12,News,1210,1
+164,Aid Groups Respond to Refugee Crisis,2,6,2025-01-12,Analysis,616,1
+165,Cybersecurity Teams Race to Build Smarter Assistants,4,15,2025-01-12,News,861,1
+166,Doctors Track Vanishing Species,8,32,2025-01-12,News,1243,1
+167,One-Pan Salmon Bowls,9,36,2025-01-12,Recipe,843,1
+168,City Council Members Signal Compromise on Spending,1,4,2025-01-13,Live Update,590,0
+169,Regional Allies Respond to Refugee Crisis,2,8,2025-01-13,News,1161,1
+170,Automakers Report Stronger-Than-Expected Profits,3,13,2025-01-13,Feature,1949,1
+171,Smartphone Makers Struggle to Keep Users,4,15,2025-01-13,News,1244,1
+172,Tennis Stars Struggle Through Losing Streak,6,23,2025-01-13,News,1042,1
+173,Young Painters Revive a Forgotten Classic,7,29,2025-01-13,News,712,1
+174,Engineers Test a New Vaccine Approach,8,33,2025-01-13,News,1175,1
+175,One-Pan Lentil Soup,9,40,2025-01-13,Recipe,770,1
+176,House Leaders Debate New Budget Plan,1,1,2025-01-14,News,1598,1
+177,European Leaders Push for Ceasefire Talks,2,7,2025-01-14,Analysis,951,1
+178,Banks Brace for Slower Holiday Sales,3,10,2025-01-14,News,826,1
+179,Smartphone Makers Unveil Next-Generation Devices,4,16,2025-01-14,Live Update,537,0
+180,Weeknight Vegetable Curry,9,36,2025-01-14,Recipe,796,1
+181,Brooklyn Residents Push for Safer Streets,10,43,2025-01-14,News,456,1
+182,Voters Signal Compromise on Spending,1,4,2025-01-15,News,1828,1
+183,Senators Signal Compromise on Spending,1,3,2025-01-15,Feature,1225,1
+184,Aid Groups Warn of Food Shortages,2,6,2025-01-15,Analysis,1548,1
+185,Smartphone Makers Race to Build Smarter Assistants,4,16,2025-01-15,Feature,2032,0
+186,The Hidden Cost of Small Cities,5,20,2025-01-15,Opinion,1283,1
+187,New Novels Revive a Forgotten Classic,7,30,2025-01-15,News,995,1
+188,Marine Biologists Map a Warming Ocean,8,31,2025-01-15,Feature,2707,0
+189,Five-Ingredient Salmon Bowls,9,40,2025-01-15,Recipe,860,1
+190,Governors Face Pressure Over Housing Bill,1,3,2025-01-16,News,1709,1
+191,Regional Allies Agree on New Climate Targets,2,6,2025-01-16,Live Update,410,0
+192,Retailers Rethink Office Return Plans,3,11,2025-01-16,News,1211,1
+193,AI Startups Race to Build Smarter Assistants,4,14,2025-01-16,Feature,1940,1
+194,Why We Small Cities,5,19,2025-01-16,Opinion,926,1
+195,Marathon Runners Look Ahead to Playoffs,6,23,2025-01-16,News,826,1
+196,Marine Biologists Build Cleaner Batteries,8,32,2025-01-16,Analysis,1758,1
+197,Campaigns Face Pressure Over Housing Bill,1,2,2025-01-17,News,1340,1
+198,Coastal Nations Warn of Food Shortages,2,7,2025-01-17,News,1069,1
+199,Chip Companies Prepare for Major Outage Risks,4,16,2025-01-17,News,733,1
+200,Tennis Stars Break a Season Record,6,23,2025-01-17,News,573,1
+201,New Novels Tell Stories of Migration,7,27,2025-01-17,News,1039,1
+202,Five-Ingredient Salmon Bowls,9,39,2025-01-17,Recipe,595,1
+203,Subway Riders Celebrate a Neighborhood Revival,10,42,2025-01-17,News,996,1
+204,Voters Shift Strategy Before Midterms,1,5,2025-01-18,News,1274,1
+205,Airlines Bet Big on Electric Future,3,12,2025-01-18,News,904,1
+206,AI Startups Raise Prices Again,4,14,2025-01-18,Analysis,1009,1
+207,The Case for Small Cities,5,19,2025-01-18,Opinion,1089,1
+208,Engineers Build Cleaner Batteries,8,31,2025-01-18,Analysis,1416,1
+209,Weeknight Pasta With Greens,9,38,2025-01-18,Recipe,682,1
+210,Governors Debate New Budget Plan,1,1,2025-01-19,News,868,1
+211,Streaming Services Face New Privacy Rules,4,14,2025-01-19,Feature,2282,1
+212,Why We Affordable Housing,5,19,2025-01-19,Opinion,1390,1
+213,Researchers Track Vanishing Species,8,33,2025-01-19,News,1189,1
+214,Easy Salmon Bowls,9,38,2025-01-19,Recipe,525,1
+215,Governors Clash Over Tax Proposal,1,1,2025-01-20,Analysis,1224,1
+216,Trade Ministers Agree on New Climate Targets,2,6,2025-01-20,Analysis,1254,1
+217,Smartphone Makers Face New Privacy Rules,4,14,2025-01-20,Feature,1549,1
+218,Marathon Runners Clinch a Thrilling Win,6,22,2025-01-20,Live Update,354,0
+219,Jazz Musicians Revive a Forgotten Classic,7,29,2025-01-20,Analysis,921,1
+220,Governors Clash Over Tax Proposal,1,4,2025-01-21,News,1408,1
+221,UN Envoys Sign Landmark Trade Pact,2,7,2025-01-21,Live Update,966,0
+222,Banks Bet Big on Electric Future,3,12,2025-01-21,Analysis,1694,0
+223,Streaming Services Prepare for Major Outage Risks,4,14,2025-01-21,Live Update,347,0
+224,Marathon Runners Break a Season Record,6,22,2025-01-21,Feature,1447,1
+225,Senators Shift Strategy Before Midterms,1,1,2025-01-22,News,1771,1
+226,Campaigns Debate New Budget Plan,1,2,2025-01-22,News,1080,1
+227,Trade Ministers Meet Amid Rising Tensions,2,6,2025-01-22,Feature,2358,1
+228,Small Businesses Rethink Office Return Plans,3,10,2025-01-22,News,556,0
+229,In Defense of Small Cities,5,21,2025-01-22,Opinion,830,0
+230,Marathon Runners Break a Season Record,6,23,2025-01-22,Analysis,439,1
+231,City Museums Divide the Critics,7,30,2025-01-22,News,675,1
+232,City Council Members Clash Over Tax Proposal,1,4,2025-01-23,Feature,2496,1
+233,Coastal Nations Push for Ceasefire Talks,2,8,2025-01-23,Live Update,987,0
+234,Banks Rethink Office Return Plans,3,9,2025-01-23,Feature,2431,1
+235,Smartphone Makers Unveil Next-Generation Devices,4,16,2025-01-23,News,700,0
+236,The Knicks Break a Season Record,6,22,2025-01-23,Analysis,855,0
+237,Voters Weigh Election Reform,1,5,2025-01-24,News,1730,1
+238,Coastal Nations Meet Amid Rising Tensions,2,6,2025-01-24,News,1422,1
+239,Smartphone Makers Race to Build Smarter Assistants,4,14,2025-01-24,Live Update,538,0
+240,What Leaders Miss About Public Transit,5,17,2025-01-24,Opinion,833,1
+241,The Yankees Return From Injury,6,24,2025-01-24,Feature,1427,1
+242,Researchers Map a Warming Ocean,8,33,2025-01-24,Feature,2775,1
+243,Voters Face Pressure Over Housing Bill,1,1,2025-01-25,News,657,1
+244,Small Businesses Rethink Office Return Plans,3,9,2025-01-25,Analysis,1082,1
+245,Chip Companies Face New Privacy Rules,4,16,2025-01-25,News,1497,1
+246,Jazz Musicians Divide the Critics,7,27,2025-01-25,Analysis,1461,1
+247,Weeknight Lentil Soup,9,39,2025-01-25,Recipe,651,0
+248,Senators Clash Over Tax Proposal,1,5,2025-01-26,News,1297,1
+249,Regional Allies Sign Landmark Trade Pact,2,7,2025-01-26,News,788,1
+250,Chip Companies Struggle to Keep Users,4,16,2025-01-26,News,1149,1
+251,What Leaders Miss About Local News,5,20,2025-01-26,Opinion,1569,1
+252,Voters Debate New Budget Plan,1,1,2025-01-27,News,1109,1
+253,Coastal Nations Meet Amid Rising Tensions,2,6,2025-01-27,News,1166,1
+254,Airlines Bet Big on Electric Future,3,9,2025-01-27,News,1164,1
+255,Cybersecurity Teams Prepare for Major Outage Risks,4,14,2025-01-27,News,990,1
+256,The Case for Remote Work,5,20,2025-01-27,Opinion,851,1
+257,Climate Scientists Rethink Sleep and Memory,8,33,2025-01-27,Feature,2165,1
+258,City Schools Push for Safer Streets,10,44,2025-01-27,News,416,1
+259,Senators Face Pressure Over Housing Bill,1,3,2025-01-28,Live Update,1121,0
+260,Aid Groups Sign Landmark Trade Pact,2,8,2025-01-28,Analysis,1777,1
+261,Tech Giants Bet Big on Electric Future,3,9,2025-01-28,Analysis,907,1
+262,Streaming Services Prepare for Major Outage Risks,4,16,2025-01-28,Analysis,1034,1
+263,The Yankees Break a Season Record,6,22,2025-01-28,News,1134,1
+264,Indie Filmmakers Find a New Audience,7,29,2025-01-28,News,1037,1
+265,City Council Members Debate New Budget Plan,1,3,2025-01-29,News,1811,1
+266,Trade Ministers Push for Ceasefire Talks,2,6,2025-01-29,News,895,1
+267,Retailers Bet Big on Electric Future,3,12,2025-01-29,Analysis,898,1
+268,What Leaders Miss About Small Cities,5,18,2025-01-29,Opinion,326,1
+269,City Museums Revive a Forgotten Classic,7,28,2025-01-29,News,708,1
+270,City Council Members Signal Compromise on Spending,1,1,2025-01-30,News,1354,1
+271,UN Envoys Respond to Refugee Crisis,2,6,2025-01-30,News,1689,1
+272,Tech Giants Face New Interest Rate Reality,3,10,2025-01-30,Feature,1648,1
+273,Smartphone Makers Struggle to Keep Users,4,15,2025-01-30,Live Update,829,0
+274,Why We Small Cities,5,19,2025-01-30,Opinion,1211,1
+275,Marathon Runners Break a Season Record,6,22,2025-01-30,News,365,1
+276,Broadway Shows Divide the Critics,7,28,2025-01-30,News,1083,1
+277,Senators Debate New Budget Plan,1,1,2025-01-31,News,1480,1
+278,Campaigns Shift Strategy Before Midterms,1,4,2025-01-31,Analysis,1184,1
+279,Aid Groups Sign Landmark Trade Pact,2,8,2025-01-31,Feature,2158,1
+280,Small Businesses Report Stronger-Than-Expected Profits,3,12,2025-01-31,News,840,1
+281,Social Platforms Raise Prices Again,4,16,2025-01-31,Feature,2514,1
+282,Governors Shift Strategy Before Midterms,1,2,2025-02-01,News,1348,0
+283,Coastal Nations Sign Landmark Trade Pact,2,8,2025-02-01,News,1831,1
+284,What Leaders Miss About Remote Work,5,17,2025-02-01,Opinion,953,0
+285,One-Pan Vegetable Curry,9,40,2025-02-01,Recipe,590,1
+286,Campaigns Clash Over Tax Proposal,1,2,2025-02-02,News,1092,1
+287,Small Businesses Face New Interest Rate Reality,3,9,2025-02-02,News,1101,0
+288,One-Pan Vegetable Curry,9,39,2025-02-02,Recipe,627,1
+289,Subway Riders Celebrate a Neighborhood Revival,10,44,2025-02-02,Feature,1094,1
+290,Campaigns Clash Over Tax Proposal,1,2,2025-02-03,News,1358,1
+291,Coastal Nations Push for Ceasefire Talks,2,6,2025-02-03,News,1593,1
+292,Airlines Bet Big on Electric Future,3,13,2025-02-03,Analysis,1349,1
+293,In Defense of Local News,5,17,2025-02-03,Opinion,763,1
+294,Liberty Players Look Ahead to Playoffs,6,22,2025-02-03,News,601,1
+295,Subway Riders Fight Rising Rents,10,43,2025-02-03,News,892,1
+296,Governors Signal Compromise on Spending,1,3,2025-02-04,News,1324,1
+297,Voters Shift Strategy Before Midterms,1,4,2025-02-04,Live Update,1030,0
+298,Aid Groups Agree on New Climate Targets,2,8,2025-02-04,News,264,1
+299,Small Businesses Brace for Slower Holiday Sales,3,13,2025-02-04,Live Update,811,0
+300,The Case for Remote Work,5,18,2025-02-04,Opinion,523,1
+301,The Knicks Look Ahead to Playoffs,6,25,2025-02-04,Feature,1333,1
+302,Governors Shift Strategy Before Midterms,1,3,2025-02-05,News,1719,0
+303,Coastal Nations Meet Amid Rising Tensions,2,8,2025-02-05,Analysis,1107,0
+304,Retailers Rethink Office Return Plans,3,11,2025-02-05,News,994,1
+305,The Yankees Make a Bold Trade,6,24,2025-02-05,Analysis,579,1
+306,New Novels Revive a Forgotten Classic,7,30,2025-02-05,Analysis,915,1
+307,Easy Salmon Bowls,9,39,2025-02-05,Recipe,856,1
+308,Governors Face Pressure Over Housing Bill,1,1,2025-02-06,Feature,2687,1
+309,Coastal Nations Warn of Food Shortages,2,6,2025-02-06,News,840,1
+310,Small Businesses Report Stronger-Than-Expected Profits,3,10,2025-02-06,News,1220,1
+311,What Leaders Miss About Local News,5,17,2025-02-06,Opinion,1268,1
+312,Liberty Players Make a Bold Trade,6,22,2025-02-06,News,843,1
+313,Broadway Shows Divide the Critics,7,27,2025-02-06,News,1070,0
+314,Slow-Cooker Salmon Bowls,9,36,2025-02-06,Recipe,701,1
+315,City Council Members Weigh Election Reform,1,5,2025-02-07,Analysis,1315,1
+316,Aid Groups Push for Ceasefire Talks,2,8,2025-02-07,News,1365,1
+317,Smartphone Makers Face New Privacy Rules,4,16,2025-02-07,News,857,1
+318,Why We Small Cities,5,21,2025-02-07,Opinion,715,1
+319,The Yankees Look Ahead to Playoffs,6,25,2025-02-07,News,664,1
+320,European Leaders Meet Amid Rising Tensions,2,7,2025-02-08,News,1572,1
+321,Easy Lentil Soup,9,39,2025-02-08,Recipe,772,1
+322,House Leaders Face Pressure Over Housing Bill,1,2,2025-02-09,News,353,0
+323,Regional Allies Meet Amid Rising Tensions,2,7,2025-02-09,News,496,1
+324,Banks Brace for Slower Holiday Sales,3,12,2025-02-09,News,1229,0
+325,Astronomers Rethink Sleep and Memory,8,34,2025-02-09,Live Update,651,0
+326,One-Pan Vegetable Curry,9,39,2025-02-09,Recipe,594,1
+327,City Council Members Debate New Budget Plan,1,4,2025-02-10,Analysis,1265,0
+328,Aid Groups Push for Ceasefire Talks,2,7,2025-02-10,News,1085,1
+329,Banks Cut Jobs as Costs Rise,3,9,2025-02-10,News,1563,1
+330,Cybersecurity Teams Raise Prices Again,4,14,2025-02-10,News,1018,1
+331,Marathon Runners Struggle Through Losing Streak,6,22,2025-02-10,News,747,1
+332,New Novels Capture the City's Mood,7,26,2025-02-10,News,927,1
+333,Climate Scientists Discover Surprising Signal,8,35,2025-02-10,Feature,2842,1
+334,One-Pan Lemon Chicken,9,38,2025-02-10,Recipe,720,1
+335,Campaigns Weigh Election Reform,1,3,2025-02-11,News,1510,1
+336,European Leaders Respond to Refugee Crisis,2,6,2025-02-11,News,1148,1
+337,Automakers Cut Jobs as Costs Rise,3,11,2025-02-11,News,1092,0
+338,It Is Time to Rethink Local News,5,21,2025-02-11,Opinion,946,1
+339,Young Painters Revive a Forgotten Classic,7,30,2025-02-11,Analysis,1009,0
+340,Slow-Cooker Lemon Chicken,9,40,2025-02-11,Recipe,825,1
+341,Voters Weigh Election Reform,1,4,2025-02-12,News,1187,1
+342,Trade Ministers Sign Landmark Trade Pact,2,6,2025-02-12,News,965,0
+343,Automakers Report Stronger-Than-Expected Profits,3,11,2025-02-12,News,1335,1
+344,Smartphone Makers Unveil Next-Generation Devices,4,14,2025-02-12,News,1030,0
+345,What Leaders Miss About Screen Time,5,18,2025-02-12,Opinion,1043,0
+346,Tennis Stars Break a Season Record,6,24,2025-02-12,News,652,1
+347,House Leaders Clash Over Tax Proposal,1,1,2025-02-13,Feature,2766,1
+348,UN Envoys Warn of Food Shortages,2,8,2025-02-13,Feature,2030,1
+349,Automakers Cut Jobs as Costs Rise,3,11,2025-02-13,News,898,1
+350,AI Startups Struggle to Keep Users,4,14,2025-02-13,News,707,1
+351,Marathon Runners Break a Season Record,6,25,2025-02-13,News,1143,1
+352,Queens Restaurants Fight Rising Rents,10,41,2025-02-13,News,1299,1
+353,City Council Members Signal Compromise on Spending,1,3,2025-02-14,News,1872,1
+354,Governors Shift Strategy Before Midterms,1,4,2025-02-14,News,750,1
+355,Regional Allies Respond to Refugee Crisis,2,7,2025-02-14,News,421,1
+356,Automakers Cut Jobs as Costs Rise,3,11,2025-02-14,News,800,1
+357,AI Startups Face New Privacy Rules,4,15,2025-02-14,News,910,1
+358,One-Pan Apple Cake,9,36,2025-02-14,Recipe,701,1
+359,Brooklyn Residents Celebrate a Neighborhood Revival,10,41,2025-02-14,News,1201,1
+360,Trade Ministers Meet Amid Rising Tensions,2,6,2025-02-15,Analysis,1336,1
+361,Voters Debate New Budget Plan,1,4,2025-02-16,News,1217,1
+362,Automakers Face New Interest Rate Reality,3,13,2025-02-16,Live Update,535,0
+363,Smartphone Makers Race to Build Smarter Assistants,4,16,2025-02-16,Live Update,817,0
+364,Tennis Stars Clinch a Thrilling Win,6,24,2025-02-16,News,665,1
+365,Campaigns Signal Compromise on Spending,1,4,2025-02-17,Analysis,1506,1
+366,European Leaders Respond to Refugee Crisis,2,7,2025-02-17,Analysis,1138,1
+367,Automakers Cut Jobs as Costs Rise,3,12,2025-02-17,News,1080,1
+368,The Case for Public Transit,5,21,2025-02-17,Opinion,1180,1
+369,The Knicks Look Ahead to Playoffs,6,25,2025-02-17,News,943,1
+370,Broadway Shows Revive a Forgotten Classic,7,27,2025-02-17,Analysis,1159,1
+371,House Leaders Signal Compromise on Spending,1,1,2025-02-18,Feature,2500,1
+372,Regional Allies Push for Ceasefire Talks,2,7,2025-02-18,News,1446,1
+373,Small Businesses Brace for Slower Holiday Sales,3,13,2025-02-18,News,1133,1
+374,City Museums Tell Stories of Migration,7,26,2025-02-18,News,547,1
+375,Astronomers Map a Warming Ocean,8,32,2025-02-18,News,979,1
+376,House Leaders Clash Over Tax Proposal,1,4,2025-02-19,News,1279,1
+377,Regional Allies Meet Amid Rising Tensions,2,8,2025-02-19,Feature,1821,1
+378,Social Platforms Face New Privacy Rules,4,14,2025-02-19,News,1271,0
+379,Tennis Stars Make a Bold Trade,6,22,2025-02-19,News,509,1
+380,Jazz Musicians Draw Record Crowds,7,29,2025-02-19,News,924,1
+381,Brooklyn Residents Fight Rising Rents,10,44,2025-02-19,Analysis,1291,1
+382,Senators Debate New Budget Plan,1,2,2025-02-20,News,1900,1
+383,Trade Ministers Meet Amid Rising Tensions,2,6,2025-02-20,Analysis,1472,0
+384,Airlines Cut Jobs as Costs Rise,3,12,2025-02-20,Analysis,761,1
+385,Indie Filmmakers Capture the City's Mood,7,30,2025-02-20,Live Update,404,0
+386,Crispy Salmon Bowls,9,40,2025-02-20,Recipe,959,1
+387,Senators Signal Compromise on Spending,1,1,2025-02-21,Analysis,821,1
+388,European Leaders Meet Amid Rising Tensions,2,8,2025-02-21,News,1795,1
+389,Tech Giants Cut Jobs as Costs Rise,3,9,2025-02-21,News,1204,1
+390,Smartphone Makers Race to Build Smarter Assistants,4,14,2025-02-21,News,763,1
+391,It Is Time to Rethink Screen Time,5,21,2025-02-21,Opinion,865,1
+392,The Knicks Struggle Through Losing Streak,6,22,2025-02-21,Feature,1607,1
+393,Weeknight Lemon Chicken,9,37,2025-02-21,Recipe,474,1
+394,Campaigns Face Pressure Over Housing Bill,1,2,2025-02-22,Feature,1789,1
+395,Trade Ministers Warn of Food Shortages,2,6,2025-02-22,Live Update,958,0
+396,Why We Remote Work,5,18,2025-02-22,Opinion,784,1
+397,Five-Ingredient Vegetable Curry,9,36,2025-02-22,Recipe,698,1
+398,City Schools Push for Safer Streets,10,45,2025-02-22,Feature,2066,1
+399,Governors Face Pressure Over Housing Bill,1,3,2025-02-23,Live Update,676,0
+400,Coastal Nations Warn of Food Shortages,2,6,2025-02-23,Analysis,1951,1
+401,Banks Bet Big on Electric Future,3,9,2025-02-23,Analysis,1245,1
+402,Streaming Services Race to Build Smarter Assistants,4,15,2025-02-23,News,998,1
+403,The Case for Affordable Housing,5,21,2025-02-23,Opinion,1330,1
+404,Brooklyn Residents Push for Safer Streets,10,43,2025-02-23,News,634,0
+405,House Leaders Face Pressure Over Housing Bill,1,5,2025-02-24,News,1173,1
+406,Aid Groups Meet Amid Rising Tensions,2,8,2025-02-24,Live Update,693,0
+407,Tech Giants Brace for Slower Holiday Sales,3,13,2025-02-24,Analysis,1093,1
+408,Chip Companies Raise Prices Again,4,14,2025-02-24,Analysis,1273,1
+409,City Museums Revive a Forgotten Classic,7,27,2025-02-24,News,1362,1
+410,Engineers Test a New Vaccine Approach,8,31,2025-02-24,News,1713,1
+411,Brooklyn Residents Adapt to New Rules,10,45,2025-02-24,News,395,0
+412,Senators Weigh Election Reform,1,4,2025-02-25,Analysis,1379,1
+413,Regional Allies Agree on New Climate Targets,2,8,2025-02-25,News,1486,1
+414,Automakers Bet Big on Electric Future,3,13,2025-02-25,News,1019,1
+415,Social Platforms Race to Build Smarter Assistants,4,16,2025-02-25,News,879,1
+416,It Is Time to Rethink Affordable Housing,5,21,2025-02-25,Opinion,1145,0
+417,Liberty Players Return From Injury,6,24,2025-02-25,News,684,1
+418,Five-Ingredient Lentil Soup,9,39,2025-02-25,Recipe,613,1
+419,City Schools Adapt to New Rules,10,41,2025-02-25,News,1086,1
+420,Campaigns Face Pressure Over Housing Bill,1,2,2025-02-26,Analysis,1275,1
+421,Automakers Bet Big on Electric Future,3,13,2025-02-26,News,1022,1
+422,Cybersecurity Teams Struggle to Keep Users,4,15,2025-02-26,News,749,1
+423,Tennis Stars Clinch a Thrilling Win,6,24,2025-02-26,News,776,1
+424,Brooklyn Residents Prepare for Winter Storm,10,43,2025-02-26,Feature,1609,1
+425,Voters Debate New Budget Plan,1,3,2025-02-27,News,1104,1
+426,Regional Allies Warn of Food Shortages,2,6,2025-02-27,Feature,2019,1
+427,Banks Rethink Office Return Plans,3,11,2025-02-27,News,1111,1
+428,Chip Companies Raise Prices Again,4,16,2025-02-27,News,987,1
+429,City Council Members Clash Over Tax Proposal,1,1,2025-02-28,News,978,1
+430,City Council Members Shift Strategy Before Midterms,1,5,2025-02-28,News,1349,0
+431,Regional Allies Meet Amid Rising Tensions,2,6,2025-02-28,News,1422,1
+432,Tech Giants Brace for Slower Holiday Sales,3,10,2025-02-28,Analysis,952,1
+433,Bronx Tenants Adjust to Fare Changes,10,45,2025-02-28,News,1156,1
+434,Governors Shift Strategy Before Midterms,1,5,2025-03-01,News,1039,1
+435,The Yankees Struggle Through Losing Streak,6,25,2025-03-01,Analysis,681,1
+436,Weeknight Lemon Chicken,9,36,2025-03-01,Recipe,1065,1
+437,House Leaders Weigh Election Reform,1,2,2025-03-02,Feature,2484,1
+438,Airlines Brace for Slower Holiday Sales,3,11,2025-03-02,News,1388,1
+439,Campaigns Shift Strategy Before Midterms,1,4,2025-03-03,News,1416,1
+440,Coastal Nations Warn of Food Shortages,2,8,2025-03-03,Live Update,706,0
+441,Retailers Report Stronger-Than-Expected Profits,3,10,2025-03-03,News,2095,1
+442,In Defense of Affordable Housing,5,21,2025-03-03,Opinion,1317,0
+443,The Yankees Struggle Through Losing Streak,6,24,2025-03-03,Feature,2244,1
+444,Weeknight Salmon Bowls,9,39,2025-03-03,Recipe,508,0
+445,Manhattan Shops Adjust to Fare Changes,10,44,2025-03-03,News,951,1
+446,Senators Face Pressure Over Housing Bill,1,1,2025-03-04,News,2192,1
+447,Trade Ministers Respond to Refugee Crisis,2,8,2025-03-04,News,1001,1
+448,Tech Giants Report Stronger-Than-Expected Profits,3,13,2025-03-04,Analysis,1018,1
+449,Cybersecurity Teams Struggle to Keep Users,4,15,2025-03-04,Feature,2257,0
+450,The Yankees Break a Season Record,6,24,2025-03-04,News,1119,1
+451,Voters Shift Strategy Before Midterms,1,4,2025-03-05,Feature,3402,0
+452,Regional Allies Meet Amid Rising Tensions,2,7,2025-03-05,Analysis,1764,1
+453,Banks Brace for Slower Holiday Sales,3,11,2025-03-05,Analysis,765,1
+454,Tennis Stars Struggle Through Losing Streak,6,23,2025-03-05,Analysis,1203,1
+455,Slow-Cooker Vegetable Curry,9,37,2025-03-05,Recipe,912,1
+456,Governors Signal Compromise on Spending,1,5,2025-03-06,Live Update,808,0
+457,Tech Giants Cut Jobs as Costs Rise,3,13,2025-03-06,Analysis,737,1
+458,Social Platforms Unveil Next-Generation Devices,4,16,2025-03-06,News,1262,0
+459,It Is Time to Rethink Local News,5,18,2025-03-06,Opinion,937,1
+460,Rookie Quarterbacks Return From Injury,6,25,2025-03-06,News,787,1
+461,Crispy Lemon Chicken,9,36,2025-03-06,Recipe,834,1
+462,Senators Signal Compromise on Spending,1,5,2025-03-07,Live Update,940,0
+463,Governors Debate New Budget Plan,1,2,2025-03-07,News,1465,1
+464,Regional Allies Agree on New Climate Targets,2,8,2025-03-07,News,1222,1
+465,Airlines Brace for Slower Holiday Sales,3,10,2025-03-07,Live Update,884,0
+466,Chip Companies Prepare for Major Outage Risks,4,14,2025-03-07,Feature,1126,1
+467,Broadway Shows Draw Record Crowds,7,27,2025-03-07,Analysis,1061,0
+468,City Schools Push for Safer Streets,10,42,2025-03-07,News,302,0
+469,Governors Clash Over Tax Proposal,1,5,2025-03-08,News,1055,1
+470,Coastal Nations Sign Landmark Trade Pact,2,8,2025-03-08,News,1576,1
+471,Tech Giants Report Stronger-Than-Expected Profits,3,9,2025-03-08,News,937,1
+472,The Knicks Look Ahead to Playoffs,6,23,2025-03-08,News,830,0
+473,Engineers Track Vanishing Species,8,31,2025-03-08,Analysis,695,1
+474,Easy Vegetable Curry,9,37,2025-03-08,Recipe,1069,0
+475,House Leaders Weigh Election Reform,1,1,2025-03-09,Analysis,1345,1
+476,Aid Groups Meet Amid Rising Tensions,2,7,2025-03-09,Feature,2538,1
+477,Automakers Brace for Slower Holiday Sales,3,12,2025-03-09,Feature,2169,1
+478,Cybersecurity Teams Race to Build Smarter Assistants,4,16,2025-03-09,Feature,1949,1
+479,City Council Members Weigh Election Reform,1,3,2025-03-10,News,1585,1
+480,Regional Allies Warn of Food Shortages,2,6,2025-03-10,Analysis,1138,1
+481,Banks Bet Big on Electric Future,3,12,2025-03-10,News,1123,1
+482,Why We Public Transit,5,18,2025-03-10,Opinion,776,1
+483,House Leaders Weigh Election Reform,1,1,2025-03-11,News,1221,0
+484,Coastal Nations Push for Ceasefire Talks,2,8,2025-03-11,News,1077,1
+485,Chip Companies Face New Privacy Rules,4,16,2025-03-11,Live Update,809,0
+486,Broadway Shows Divide the Critics,7,27,2025-03-11,News,1083,1
+487,Doctors Track Vanishing Species,8,35,2025-03-11,News,1244,1
+488,Bronx Tenants Fight Rising Rents,10,41,2025-03-11,Analysis,1070,1
+489,Governors Face Pressure Over Housing Bill,1,2,2025-03-12,Analysis,1224,1
+490,Coastal Nations Warn of Food Shortages,2,8,2025-03-12,Feature,2939,1
+491,Tech Giants Rethink Office Return Plans,3,11,2025-03-12,News,1225,1
+492,New Novels Find a New Audience,7,29,2025-03-12,News,250,0
+493,Weeknight Pasta With Greens,9,38,2025-03-12,Recipe,815,1
+494,Queens Restaurants Prepare for Winter Storm,10,43,2025-03-12,Live Update,436,0
+495,Voters Shift Strategy Before Midterms,1,2,2025-03-13,Live Update,640,0
+496,House Leaders Shift Strategy Before Midterms,1,3,2025-03-13,News,1079,1
+497,Aid Groups Push for Ceasefire Talks,2,7,2025-03-13,Live Update,945,0
+498,Airlines Face New Interest Rate Reality,3,9,2025-03-13,News,1615,1
+499,Why We Small Cities,5,20,2025-03-13,Opinion,739,1
+500,One-Pan Apple Cake,9,39,2025-03-13,Recipe,519,1
+501,Queens Restaurants Celebrate a Neighborhood Revival,10,42,2025-03-13,News,510,0
+502,Governors Weigh Election Reform,1,5,2025-03-14,News,1405,1
+503,European Leaders Meet Amid Rising Tensions,2,6,2025-03-14,Analysis,1259,1
+504,Automakers Report Stronger-Than-Expected Profits,3,11,2025-03-14,Live Update,747,0
+505,Smartphone Makers Unveil Next-Generation Devices,4,14,2025-03-14,Analysis,400,1
+506,Why We Small Cities,5,19,2025-03-14,Opinion,817,0
+507,The Yankees Struggle Through Losing Streak,6,23,2025-03-14,Live Update,655,0
+508,Senators Signal Compromise on Spending,1,4,2025-03-15,News,1415,1
+509,Aid Groups Meet Amid Rising Tensions,2,6,2025-03-15,News,705,1
+510,Banks Brace for Slower Holiday Sales,3,12,2025-03-15,Analysis,750,1
+511,The Yankees Break a Season Record,6,23,2025-03-15,News,725,1
+512,Doctors Map a Warming Ocean,8,35,2025-03-15,News,931,1
+513,Slow-Cooker Lemon Chicken,9,37,2025-03-15,Recipe,748,1
+514,Senators Signal Compromise on Spending,1,1,2025-03-16,Feature,2359,0
+515,UN Envoys Meet Amid Rising Tensions,2,7,2025-03-16,Analysis,1111,1
+516,Jazz Musicians Revive a Forgotten Classic,7,27,2025-03-16,News,883,1
+517,Senators Signal Compromise on Spending,1,4,2025-03-17,News,665,1
+518,Campaigns Face Pressure Over Housing Bill,1,4,2025-03-17,Feature,2536,1
+519,Trade Ministers Push for Ceasefire Talks,2,7,2025-03-17,News,1188,1
+520,Tech Giants Rethink Office Return Plans,3,12,2025-03-17,News,647,1
+521,Streaming Services Unveil Next-Generation Devices,4,16,2025-03-17,News,673,1
+522,Doctors Discover Surprising Signal,8,34,2025-03-17,News,1616,0
+523,City Council Members Debate New Budget Plan,1,1,2025-03-18,News,653,1
+524,Governors Shift Strategy Before Midterms,1,5,2025-03-18,News,1768,1
+525,Coastal Nations Agree on New Climate Targets,2,7,2025-03-18,Feature,2498,1
+526,Young Painters Find a New Audience,7,26,2025-03-18,News,1239,0
+527,One-Pan Pasta With Greens,9,38,2025-03-18,Recipe,604,1
+528,City Schools Celebrate a Neighborhood Revival,10,45,2025-03-18,Feature,1600,1
+529,Governors Debate New Budget Plan,1,1,2025-03-19,News,1715,1
+530,Regional Allies Push for Ceasefire Talks,2,8,2025-03-19,News,1154,1
+531,Small Businesses Cut Jobs as Costs Rise,3,13,2025-03-19,Analysis,1212,1
+532,Social Platforms Raise Prices Again,4,15,2025-03-19,News,956,1
+533,It Is Time to Rethink Remote Work,5,18,2025-03-19,Opinion,1136,1
+534,Indie Filmmakers Draw Record Crowds,7,26,2025-03-19,News,780,1
+535,Voters Weigh Election Reform,1,3,2025-03-20,Live Update,637,0
+536,Regional Allies Meet Amid Rising Tensions,2,8,2025-03-20,News,810,1
+537,Automakers Rethink Office Return Plans,3,11,2025-03-20,Live Update,652,0
+538,The Hidden Cost of Screen Time,5,19,2025-03-20,Opinion,862,0
+539,The Knicks Look Ahead to Playoffs,6,25,2025-03-20,News,773,1
+540,City Museums Find a New Audience,7,27,2025-03-20,News,1109,1
+541,Bronx Tenants Celebrate a Neighborhood Revival,10,41,2025-03-20,Feature,2590,1
+542,City Council Members Face Pressure Over Housing Bill,1,4,2025-03-21,Analysis,1732,1
+543,Coastal Nations Meet Amid Rising Tensions,2,6,2025-03-21,Analysis,717,1
+544,Chip Companies Race to Build Smarter Assistants,4,14,2025-03-21,News,1318,1
+545,The Hidden Cost of Local News,5,18,2025-03-21,Opinion,946,1
+546,Indie Filmmakers Capture the City's Mood,7,29,2025-03-21,News,814,1
+547,Weeknight Pasta With Greens,9,40,2025-03-21,Recipe,610,1
+548,Aid Groups Sign Landmark Trade Pact,2,7,2025-03-22,News,1560,1
+549,Social Platforms Prepare for Major Outage Risks,4,16,2025-03-22,News,1228,1
+550,Subway Riders Adapt to New Rules,10,42,2025-03-22,News,709,1
+551,Campaigns Weigh Election Reform,1,4,2025-03-23,News,1446,1
+552,Aid Groups Respond to Refugee Crisis,2,8,2025-03-23,News,1448,1
+553,Social Platforms Prepare for Major Outage Risks,4,15,2025-03-23,Live Update,607,0
+554,Marathon Runners Break a Season Record,6,23,2025-03-23,Analysis,734,1
+555,Broadway Shows Draw Record Crowds,7,26,2025-03-23,Feature,1726,0
+556,Governors Shift Strategy Before Midterms,1,3,2025-03-24,News,1978,0
+557,European Leaders Push for Ceasefire Talks,2,8,2025-03-24,News,730,0
+558,What Leaders Miss About Local News,5,18,2025-03-24,Opinion,674,1
+559,Indie Filmmakers Divide the Critics,7,29,2025-03-24,Feature,1897,1
+560,House Leaders Weigh Election Reform,1,4,2025-03-25,Analysis,1905,1
+561,European Leaders Warn of Food Shortages,2,6,2025-03-25,News,1571,1
+562,Airlines Bet Big on Electric Future,3,9,2025-03-25,Live Update,589,0
+563,Smartphone Makers Face New Privacy Rules,4,16,2025-03-25,Live Update,814,0
+564,Astronomers Test a New Vaccine Approach,8,34,2025-03-25,News,1157,1
+565,Manhattan Shops Adjust to Fare Changes,10,45,2025-03-25,Analysis,1111,1
+566,House Leaders Signal Compromise on Spending,1,1,2025-03-26,News,1878,1
+567,European Leaders Meet Amid Rising Tensions,2,8,2025-03-26,Analysis,968,1
+568,Retailers Rethink Office Return Plans,3,13,2025-03-26,News,1254,1
+569,Social Platforms Race to Build Smarter Assistants,4,16,2025-03-26,News,688,1
+570,The Case for Public Transit,5,18,2025-03-26,Opinion,1148,1
+571,Rookie Quarterbacks Break a Season Record,6,25,2025-03-26,Analysis,1110,1
+572,Jazz Musicians Draw Record Crowds,7,27,2025-03-26,Feature,1434,1
+573,Senators Shift Strategy Before Midterms,1,1,2025-03-27,Feature,2381,1
+574,Automakers Brace for Slower Holiday Sales,3,12,2025-03-27,News,622,1
+575,Indie Filmmakers Tell Stories of Migration,7,27,2025-03-27,Analysis,693,1
+576,Brooklyn Residents Push for Safer Streets,10,43,2025-03-27,Feature,1427,1
+577,City Council Members Face Pressure Over Housing Bill,1,2,2025-03-28,Analysis,1420,1
+578,City Council Members Signal Compromise on Spending,1,2,2025-03-28,News,1894,1
+579,Coastal Nations Warn of Food Shortages,2,8,2025-03-28,Feature,3175,1
+580,Small Businesses Face New Interest Rate Reality,3,13,2025-03-28,News,1711,1
+581,Climate Scientists Track Vanishing Species,8,35,2025-03-28,Live Update,1135,0
+582,Weeknight Lemon Chicken,9,38,2025-03-28,Recipe,500,1
+583,Manhattan Shops Celebrate a Neighborhood Revival,10,44,2025-03-28,News,478,1
+584,Regional Allies Sign Landmark Trade Pact,2,7,2025-03-29,News,927,1
+585,Streaming Services Struggle to Keep Users,4,14,2025-03-29,Live Update,753,0
+586,Campaigns Clash Over Tax Proposal,1,4,2025-03-30,Analysis,1477,1
+587,Coastal Nations Meet Amid Rising Tensions,2,8,2025-03-30,News,1412,1
+588,Small Businesses Report Stronger-Than-Expected Profits,3,12,2025-03-30,Analysis,1139,1
+589,One-Pan Vegetable Curry,9,39,2025-03-30,Recipe,734,1
+590,Governors Clash Over Tax Proposal,1,1,2025-03-31,News,1153,1
+591,Automakers Cut Jobs as Costs Rise,3,13,2025-03-31,News,1305,1
+592,In Defense of Public Transit,5,21,2025-03-31,Opinion,743,1
+593,Tennis Stars Clinch a Thrilling Win,6,25,2025-03-31,News,773,1
+594,New Novels Capture the City's Mood,7,27,2025-03-31,News,1408,1
+595,Astronomers Rethink Sleep and Memory,8,32,2025-03-31,Analysis,576,1
+596,Voters Face Pressure Over Housing Bill,1,4,2025-04-01,News,988,1
+597,UN Envoys Meet Amid Rising Tensions,2,7,2025-04-01,Feature,3558,1
+598,Small Businesses Face New Interest Rate Reality,3,9,2025-04-01,News,1072,1
+599,Senators Weigh Election Reform,1,1,2025-04-02,Analysis,871,1
+600,Coastal Nations Push for Ceasefire Talks,2,6,2025-04-02,News,1035,1
+601,Small Businesses Face New Interest Rate Reality,3,13,2025-04-02,News,1411,1
+602,The Knicks Clinch a Thrilling Win,6,22,2025-04-02,Feature,1503,1
+603,Jazz Musicians Draw Record Crowds,7,30,2025-04-02,News,1146,1
+604,One-Pan Lentil Soup,9,40,2025-04-02,Recipe,723,1
+605,Brooklyn Residents Adapt to New Rules,10,45,2025-04-02,Feature,1704,1
+606,Senators Shift Strategy Before Midterms,1,2,2025-04-03,Feature,1553,1
+607,Campaigns Shift Strategy Before Midterms,1,1,2025-04-03,Analysis,1441,1
+608,European Leaders Push for Ceasefire Talks,2,8,2025-04-03,Live Update,420,0
+609,Retailers Face New Interest Rate Reality,3,13,2025-04-03,Feature,1924,1
+610,Marine Biologists Build Cleaner Batteries,8,35,2025-04-03,News,514,1
+611,House Leaders Clash Over Tax Proposal,1,3,2025-04-04,News,773,1
+612,Voters Weigh Election Reform,1,5,2025-04-04,Feature,2496,1
+613,Astronomers Test a New Vaccine Approach,8,32,2025-04-04,News,1224,0
+614,City Council Members Signal Compromise on Spending,1,1,2025-04-05,News,1454,0
+615,UN Envoys Agree on New Climate Targets,2,8,2025-04-05,Analysis,1067,0
+616,Young Painters Capture the City's Mood,7,26,2025-04-05,News,803,1
+617,Doctors Track Vanishing Species,8,32,2025-04-05,News,1550,1
+618,City Council Members Debate New Budget Plan,1,2,2025-04-06,Analysis,1238,1
+619,Retailers Report Stronger-Than-Expected Profits,3,11,2025-04-06,News,956,1
+620,Chip Companies Prepare for Major Outage Risks,4,16,2025-04-06,News,1224,1
+621,The Knicks Look Ahead to Playoffs,6,22,2025-04-06,News,864,1
+622,One-Pan Salmon Bowls,9,37,2025-04-06,Recipe,849,1
+623,Senators Weigh Election Reform,1,4,2025-04-07,Analysis,808,1
+624,Coastal Nations Meet Amid Rising Tensions,2,7,2025-04-07,News,684,1
+625,Retailers Cut Jobs as Costs Rise,3,11,2025-04-07,Analysis,1005,1
+626,What Leaders Miss About Small Cities,5,19,2025-04-07,Opinion,1067,1
+627,Astronomers Discover Surprising Signal,8,34,2025-04-07,News,513,1
+628,Senators Debate New Budget Plan,1,3,2025-04-08,News,1103,1
+629,City Council Members Signal Compromise on Spending,1,4,2025-04-08,Feature,2401,1
+630,Coastal Nations Warn of Food Shortages,2,8,2025-04-08,News,1227,0
+631,Banks Brace for Slower Holiday Sales,3,11,2025-04-08,Feature,2084,1
+632,The Yankees Clinch a Thrilling Win,6,22,2025-04-08,Analysis,956,1
+633,Researchers Map a Warming Ocean,8,32,2025-04-08,News,1032,1
+634,Five-Ingredient Salmon Bowls,9,38,2025-04-08,Recipe,1266,1
+635,City Schools Adapt to New Rules,10,41,2025-04-08,Feature,1427,1
+636,Senators Shift Strategy Before Midterms,1,5,2025-04-09,Feature,2838,1
+637,Regional Allies Meet Amid Rising Tensions,2,8,2025-04-09,News,1173,1
+638,Retailers Face New Interest Rate Reality,3,12,2025-04-09,Analysis,715,1
+639,Marathon Runners Break a Season Record,6,23,2025-04-09,Analysis,711,1
+640,Indie Filmmakers Find a New Audience,7,26,2025-04-09,News,1428,1
+641,Climate Scientists Map a Warming Ocean,8,34,2025-04-09,News,1229,1
+642,Crispy Apple Cake,9,37,2025-04-09,Recipe,513,1
+643,City Schools Celebrate a Neighborhood Revival,10,42,2025-04-09,News,1114,1
+644,Campaigns Debate New Budget Plan,1,2,2025-04-10,Feature,2187,1
+645,Regional Allies Warn of Food Shortages,2,7,2025-04-10,News,1037,0
+646,Airlines Bet Big on Electric Future,3,11,2025-04-10,News,1252,1
+647,Streaming Services Face New Privacy Rules,4,14,2025-04-10,Feature,1715,1
+648,What Leaders Miss About Local News,5,17,2025-04-10,Opinion,1195,1
+649,Tennis Stars Look Ahead to Playoffs,6,23,2025-04-10,News,772,0
+650,Engineers Build Cleaner Batteries,8,35,2025-04-10,Analysis,1644,1
+651,House Leaders Debate New Budget Plan,1,1,2025-04-11,Analysis,1571,1
+652,UN Envoys Warn of Food Shortages,2,7,2025-04-11,News,872,1
+653,Automakers Cut Jobs as Costs Rise,3,13,2025-04-11,Analysis,481,1
+654,AI Startups Raise Prices Again,4,15,2025-04-11,Feature,1375,1
+655,Engineers Rethink Sleep and Memory,8,35,2025-04-11,News,750,1
+656,One-Pan Apple Cake,9,38,2025-04-11,Recipe,622,1
+657,Senators Debate New Budget Plan,1,3,2025-04-12,Live Update,451,0
+658,Tech Giants Face New Interest Rate Reality,3,10,2025-04-12,Live Update,409,0
+659,Why We Screen Time,5,19,2025-04-12,Opinion,1641,1
+660,Weeknight Vegetable Curry,9,36,2025-04-12,Recipe,738,1
+661,Campaigns Shift Strategy Before Midterms,1,1,2025-04-13,Feature,2565,1
+662,Trade Ministers Meet Amid Rising Tensions,2,8,2025-04-13,News,1428,1
+663,Retailers Face New Interest Rate Reality,3,12,2025-04-13,News,1224,1
+664,House Leaders Shift Strategy Before Midterms,1,2,2025-04-14,News,821,1
+665,Aid Groups Respond to Refugee Crisis,2,7,2025-04-14,News,1563,1
+666,The Hidden Cost of Affordable Housing,5,19,2025-04-14,Opinion,901,1
+667,Young Painters Capture the City's Mood,7,27,2025-04-14,Live Update,580,0
+668,Marine Biologists Rethink Sleep and Memory,8,34,2025-04-14,News,1092,1
+669,Easy Lemon Chicken,9,37,2025-04-14,Recipe,586,1
+670,Voters Signal Compromise on Spending,1,5,2025-04-15,Analysis,1986,1
+671,Senators Weigh Election Reform,1,4,2025-04-15,News,1017,1
+672,Aid Groups Meet Amid Rising Tensions,2,8,2025-04-15,News,484,1
+673,Why We Affordable Housing,5,21,2025-04-15,Opinion,1197,1
+674,Jazz Musicians Tell Stories of Migration,7,30,2025-04-15,News,524,1
+675,Astronomers Build Cleaner Batteries,8,34,2025-04-15,Feature,2689,1
+676,Queens Restaurants Adjust to Fare Changes,10,42,2025-04-15,News,1156,1
+677,Campaigns Weigh Election Reform,1,3,2025-04-16,News,908,1
+678,Trade Ministers Sign Landmark Trade Pact,2,8,2025-04-16,Analysis,999,1
+679,Tech Giants Rethink Office Return Plans,3,12,2025-04-16,Live Update,480,0
+680,Streaming Services Struggle to Keep Users,4,15,2025-04-16,Feature,2046,0
+681,In Defense of Local News,5,21,2025-04-16,Opinion,853,1
+682,Marathon Runners Make a Bold Trade,6,24,2025-04-16,News,967,1
+683,Jazz Musicians Revive a Forgotten Classic,7,29,2025-04-16,News,949,1
+684,Marine Biologists Rethink Sleep and Memory,8,31,2025-04-16,News,1302,1
+685,Campaigns Debate New Budget Plan,1,1,2025-04-17,Live Update,898,0
+686,Trade Ministers Push for Ceasefire Talks,2,8,2025-04-17,News,1026,1
+687,Banks Cut Jobs as Costs Rise,3,13,2025-04-17,Analysis,1443,1
+688,Liberty Players Break a Season Record,6,25,2025-04-17,Analysis,958,0
+689,Five-Ingredient Apple Cake,9,38,2025-04-17,Recipe,971,1
+690,House Leaders Face Pressure Over Housing Bill,1,1,2025-04-18,News,1094,0
+691,City Council Members Signal Compromise on Spending,1,2,2025-04-18,News,1089,1
+692,Small Businesses Cut Jobs as Costs Rise,3,9,2025-04-18,Analysis,1116,0
+693,AI Startups Race to Build Smarter Assistants,4,15,2025-04-18,Feature,2381,1
+694,Why We Small Cities,5,19,2025-04-18,Opinion,990,1
+695,Young Painters Draw Record Crowds,7,29,2025-04-18,Feature,2752,1
+696,Easy Lentil Soup,9,36,2025-04-18,Recipe,930,1
+697,City Council Members Weigh Election Reform,1,2,2025-04-19,Feature,2077,1
+698,European Leaders Agree on New Climate Targets,2,6,2025-04-19,News,977,1
+699,Banks Cut Jobs as Costs Rise,3,12,2025-04-19,Analysis,1176,1
+700,Slow-Cooker Vegetable Curry,9,39,2025-04-19,Recipe,1094,1
+701,Manhattan Shops Celebrate a Neighborhood Revival,10,41,2025-04-19,Feature,707,0
+702,City Council Members Weigh Election Reform,1,3,2025-04-20,News,977,1
+703,European Leaders Agree on New Climate Targets,2,7,2025-04-20,Feature,1801,1
+704,AI Startups Raise Prices Again,4,16,2025-04-20,News,961,1
+705,Astronomers Test a New Vaccine Approach,8,31,2025-04-20,News,1889,0
+706,Campaigns Shift Strategy Before Midterms,1,5,2025-04-21,News,1420,0
+707,City Council Members Face Pressure Over Housing Bill,1,1,2025-04-21,News,1119,1
+708,Trade Ministers Warn of Food Shortages,2,7,2025-04-21,News,396,1
+709,Social Platforms Raise Prices Again,4,16,2025-04-21,News,832,0
+710,In Defense of Small Cities,5,19,2025-04-21,Opinion,1069,1
+711,Indie Filmmakers Draw Record Crowds,7,30,2025-04-21,News,748,1
+712,Astronomers Map a Warming Ocean,8,34,2025-04-21,News,717,1
+713,One-Pan Salmon Bowls,9,40,2025-04-21,Recipe,631,1
+714,Senators Debate New Budget Plan,1,5,2025-04-22,News,1046,1
+715,Regional Allies Respond to Refugee Crisis,2,6,2025-04-22,News,1466,1
+716,Cybersecurity Teams Unveil Next-Generation Devices,4,15,2025-04-22,News,1126,1
+717,New Novels Capture the City's Mood,7,26,2025-04-22,Feature,1985,0
+718,Weeknight Vegetable Curry,9,37,2025-04-22,Recipe,616,1
+719,Campaigns Clash Over Tax Proposal,1,5,2025-04-23,Live Update,1101,0
+720,European Leaders Sign Landmark Trade Pact,2,8,2025-04-23,News,1252,1
+721,Retailers Brace for Slower Holiday Sales,3,10,2025-04-23,News,727,0
+722,It Is Time to Rethink Local News,5,19,2025-04-23,Opinion,1137,1
+723,Broadway Shows Find a New Audience,7,27,2025-04-23,News,810,1
+724,Five-Ingredient Lemon Chicken,9,38,2025-04-23,Recipe,830,1
+725,Bronx Tenants Adapt to New Rules,10,45,2025-04-23,News,1280,1
+726,City Council Members Debate New Budget Plan,1,2,2025-04-24,News,947,1
+727,European Leaders Respond to Refugee Crisis,2,8,2025-04-24,News,1278,1
+728,Retailers Report Stronger-Than-Expected Profits,3,9,2025-04-24,Live Update,1037,0
+729,In Defense of Remote Work,5,18,2025-04-24,Opinion,793,0
+730,The Knicks Struggle Through Losing Streak,6,24,2025-04-24,Live Update,436,0
+731,New Novels Revive a Forgotten Classic,7,28,2025-04-24,Feature,2525,1
+732,Slow-Cooker Lemon Chicken,9,36,2025-04-24,Recipe,620,0
+733,City Council Members Debate New Budget Plan,1,5,2025-04-25,News,1160,1
+734,Aid Groups Warn of Food Shortages,2,6,2025-04-25,Feature,1891,1
+735,Campaigns Clash Over Tax Proposal,1,3,2025-04-26,Analysis,1167,1
+736,Small Businesses Face New Interest Rate Reality,3,13,2025-04-26,Live Update,688,0
+737,In Defense of Remote Work,5,18,2025-04-26,Opinion,1048,1
+738,Weeknight Lemon Chicken,9,38,2025-04-26,Recipe,838,1
+739,Voters Weigh Election Reform,1,5,2025-04-27,Feature,1576,1
+740,Aid Groups Warn of Food Shortages,2,7,2025-04-27,Feature,3000,0
+741,Small Businesses Report Stronger-Than-Expected Profits,3,11,2025-04-27,News,851,0
+742,It Is Time to Rethink Local News,5,17,2025-04-27,Opinion,945,1
+743,Tennis Stars Clinch a Thrilling Win,6,22,2025-04-27,News,337,1
+744,Five-Ingredient Lentil Soup,9,40,2025-04-27,Recipe,678,0
+745,Campaigns Shift Strategy Before Midterms,1,3,2025-04-28,Analysis,1163,1
+746,UN Envoys Meet Amid Rising Tensions,2,8,2025-04-28,News,1006,1
+747,Retailers Rethink Office Return Plans,3,11,2025-04-28,Feature,1191,1
+748,Cybersecurity Teams Struggle to Keep Users,4,16,2025-04-28,News,1107,1
+749,What Leaders Miss About Affordable Housing,5,21,2025-04-28,Opinion,489,1
+750,The Knicks Clinch a Thrilling Win,6,23,2025-04-28,Feature,1072,1
+751,Weeknight Salmon Bowls,9,36,2025-04-28,Recipe,913,1
+752,Senators Debate New Budget Plan,1,2,2025-04-29,Feature,2638,1
+753,Trade Ministers Meet Amid Rising Tensions,2,8,2025-04-29,Feature,1580,1
+754,Airlines Cut Jobs as Costs Rise,3,13,2025-04-29,Analysis,1177,1
+755,It Is Time to Rethink Small Cities,5,21,2025-04-29,Opinion,888,1
+756,Climate Scientists Track Vanishing Species,8,32,2025-04-29,News,717,0
+757,Manhattan Shops Adapt to New Rules,10,43,2025-04-29,News,677,1
+758,House Leaders Debate New Budget Plan,1,3,2025-04-30,News,1772,1
+759,UN Envoys Push for Ceasefire Talks,2,6,2025-04-30,Analysis,1007,1
+760,Liberty Players Clinch a Thrilling Win,6,22,2025-04-30,Feature,1888,1
+761,Indie Filmmakers Capture the City's Mood,7,30,2025-04-30,Live Update,730,0
+762,Subway Riders Push for Safer Streets,10,41,2025-04-30,Live Update,343,0
+763,Senators Weigh Election Reform,1,1,2025-05-01,Live Update,672,0
+764,Trade Ministers Sign Landmark Trade Pact,2,6,2025-05-01,News,1267,1
+765,Small Businesses Brace for Slower Holiday Sales,3,9,2025-05-01,Analysis,970,1
+766,Cybersecurity Teams Prepare for Major Outage Risks,4,15,2025-05-01,News,1106,0
+767,The Case for Small Cities,5,20,2025-05-01,Opinion,969,1
+768,The Yankees Return From Injury,6,25,2025-05-01,Live Update,567,0
+769,Voters Debate New Budget Plan,1,2,2025-05-02,Analysis,1644,0
+770,Regional Allies Respond to Refugee Crisis,2,8,2025-05-02,News,1485,1
+771,In Defense of Small Cities,5,19,2025-05-02,Opinion,972,1
+772,House Leaders Weigh Election Reform,1,2,2025-05-03,Feature,2939,1
+773,UN Envoys Meet Amid Rising Tensions,2,7,2025-05-03,Analysis,659,1
+774,Banks Face New Interest Rate Reality,3,13,2025-05-03,Feature,1422,1
+775,Smartphone Makers Race to Build Smarter Assistants,4,16,2025-05-03,Analysis,832,1
+776,Indie Filmmakers Find a New Audience,7,27,2025-05-03,Feature,691,1
+777,Slow-Cooker Pasta With Greens,9,39,2025-05-03,Recipe,374,1
+778,City Council Members Debate New Budget Plan,1,1,2025-05-04,Analysis,994,0
+779,Trade Ministers Sign Landmark Trade Pact,2,8,2025-05-04,News,1489,1
+780,Social Platforms Face New Privacy Rules,4,15,2025-05-04,News,1123,0
+781,In Defense of Local News,5,19,2025-05-04,Opinion,1252,1
+782,Crispy Lentil Soup,9,38,2025-05-04,Recipe,956,1
+783,Governors Debate New Budget Plan,1,2,2025-05-05,News,695,1
+784,Regional Allies Meet Amid Rising Tensions,2,6,2025-05-05,Analysis,1129,0
+785,Tech Giants Report Stronger-Than-Expected Profits,3,9,2025-05-05,Analysis,1232,1
+786,Young Painters Revive a Forgotten Classic,7,28,2025-05-05,News,1133,1
+787,Voters Weigh Election Reform,1,4,2025-05-06,Live Update,657,0
+788,UN Envoys Sign Landmark Trade Pact,2,6,2025-05-06,News,1493,1
+789,Chip Companies Prepare for Major Outage Risks,4,16,2025-05-06,News,250,1
+790,In Defense of Local News,5,20,2025-05-06,Opinion,1202,1
+791,Marathon Runners Make a Bold Trade,6,24,2025-05-06,News,953,1
+792,Researchers Map a Warming Ocean,8,34,2025-05-06,Live Update,699,0
+793,Brooklyn Residents Celebrate a Neighborhood Revival,10,42,2025-05-06,News,973,1
+794,Governors Face Pressure Over Housing Bill,1,4,2025-05-07,Live Update,675,0
+795,European Leaders Respond to Refugee Crisis,2,6,2025-05-07,Analysis,1209,1
+796,Automakers Rethink Office Return Plans,3,9,2025-05-07,News,881,1
+797,AI Startups Prepare for Major Outage Risks,4,16,2025-05-07,News,1131,1
+798,The Case for Screen Time,5,21,2025-05-07,Opinion,1327,1
+799,Brooklyn Residents Adapt to New Rules,10,43,2025-05-07,News,1060,0
+800,City Council Members Signal Compromise on Spending,1,5,2025-05-08,News,1721,1
+801,House Leaders Debate New Budget Plan,1,2,2025-05-08,News,1220,1
+802,Coastal Nations Respond to Refugee Crisis,2,7,2025-05-08,Live Update,840,0
+803,Automakers Cut Jobs as Costs Rise,3,10,2025-05-08,Analysis,1271,1
+804,Senators Face Pressure Over Housing Bill,1,4,2025-05-09,Feature,1652,1
+805,Automakers Cut Jobs as Costs Rise,3,13,2025-05-09,Live Update,910,0
+806,Cybersecurity Teams Face New Privacy Rules,4,14,2025-05-09,News,1001,1
+807,The Hidden Cost of Small Cities,5,20,2025-05-09,Opinion,1364,1
+808,Liberty Players Struggle Through Losing Streak,6,24,2025-05-09,News,1099,1
+809,Crispy Pasta With Greens,9,39,2025-05-09,Recipe,1103,1
+810,Campaigns Shift Strategy Before Midterms,1,5,2025-05-10,Feature,3286,1
+811,Astronomers Test a New Vaccine Approach,8,31,2025-05-10,News,760,1
+812,Governors Weigh Election Reform,1,2,2025-05-11,News,1053,1
+813,UN Envoys Meet Amid Rising Tensions,2,7,2025-05-11,News,1039,1
+814,Chip Companies Race to Build Smarter Assistants,4,16,2025-05-11,News,1277,1
+815,The Case for Public Transit,5,18,2025-05-11,Opinion,449,1
+816,Crispy Apple Cake,9,39,2025-05-11,Recipe,844,1
+817,Campaigns Shift Strategy Before Midterms,1,5,2025-05-12,Feature,1483,1
+818,Coastal Nations Agree on New Climate Targets,2,8,2025-05-12,News,1431,1
+819,Retailers Rethink Office Return Plans,3,9,2025-05-12,News,1174,0
+820,Streaming Services Race to Build Smarter Assistants,4,14,2025-05-12,Feature,2590,1
+821,Young Painters Divide the Critics,7,27,2025-05-12,News,1273,1
+822,Campaigns Signal Compromise on Spending,1,5,2025-05-13,Analysis,1334,1
+823,Chip Companies Struggle to Keep Users,4,15,2025-05-13,Analysis,844,1
+824,Rookie Quarterbacks Clinch a Thrilling Win,6,22,2025-05-13,News,572,1
+825,Young Painters Find a New Audience,7,29,2025-05-13,News,994,0
+826,Campaigns Clash Over Tax Proposal,1,4,2025-05-14,Live Update,503,0
+827,UN Envoys Push for Ceasefire Talks,2,8,2025-05-14,News,1077,1
+828,Banks Face New Interest Rate Reality,3,9,2025-05-14,Live Update,291,0
+829,Streaming Services Raise Prices Again,4,16,2025-05-14,News,1254,1
+830,What Leaders Miss About Affordable Housing,5,20,2025-05-14,Opinion,1121,1
+831,Marathon Runners Struggle Through Losing Streak,6,25,2025-05-14,News,885,0
+832,Campaigns Clash Over Tax Proposal,1,2,2025-05-15,Feature,3753,1
+833,Senators Face Pressure Over Housing Bill,1,2,2025-05-15,News,1090,1
+834,UN Envoys Warn of Food Shortages,2,6,2025-05-15,News,1081,1
+835,Automakers Bet Big on Electric Future,3,12,2025-05-15,Feature,2433,1
+836,AI Startups Face New Privacy Rules,4,14,2025-05-15,News,607,1
+837,In Defense of Local News,5,17,2025-05-15,Opinion,1061,1
+838,The Yankees Look Ahead to Playoffs,6,22,2025-05-15,Analysis,884,1
+839,Doctors Build Cleaner Batteries,8,31,2025-05-15,Live Update,825,0
+840,Crispy Vegetable Curry,9,37,2025-05-15,Recipe,785,1
+841,Voters Clash Over Tax Proposal,1,3,2025-05-16,News,691,1
+842,Aid Groups Meet Amid Rising Tensions,2,8,2025-05-16,Analysis,1237,1
+843,Tech Giants Report Stronger-Than-Expected Profits,3,12,2025-05-16,Feature,1947,1
+844,Smartphone Makers Unveil Next-Generation Devices,4,14,2025-05-16,News,975,1
+845,It Is Time to Rethink Local News,5,19,2025-05-16,Opinion,1080,1
+846,Liberty Players Make a Bold Trade,6,24,2025-05-16,Feature,1243,1
+847,Engineers Build Cleaner Batteries,8,32,2025-05-16,News,763,1
+848,Crispy Salmon Bowls,9,36,2025-05-16,Recipe,1009,0
+849,Regional Allies Sign Landmark Trade Pact,2,6,2025-05-17,News,1378,1
+850,Marathon Runners Clinch a Thrilling Win,6,24,2025-05-17,News,793,1
+851,Astronomers Discover Surprising Signal,8,34,2025-05-17,Feature,2403,1
+852,Easy Lentil Soup,9,38,2025-05-17,Recipe,754,1
+853,City Council Members Shift Strategy Before Midterms,1,1,2025-05-18,News,1314,1
+854,Trade Ministers Push for Ceasefire Talks,2,6,2025-05-18,News,1429,1
+855,Banks Bet Big on Electric Future,3,10,2025-05-18,News,793,1
+856,Tennis Stars Return From Injury,6,24,2025-05-18,News,1053,1
+857,Five-Ingredient Pasta With Greens,9,38,2025-05-18,Recipe,667,1
+858,City Schools Fight Rising Rents,10,43,2025-05-18,News,1135,1
+859,Voters Signal Compromise on Spending,1,1,2025-05-19,Live Update,422,0
+860,Regional Allies Push for Ceasefire Talks,2,6,2025-05-19,Analysis,587,1
+861,AI Startups Face New Privacy Rules,4,15,2025-05-19,News,709,1
+862,It Is Time to Rethink Small Cities,5,21,2025-05-19,Opinion,939,1
+863,Tennis Stars Make a Bold Trade,6,23,2025-05-19,News,720,0
+864,Weeknight Salmon Bowls,9,40,2025-05-19,Recipe,811,1
+865,Brooklyn Residents Adapt to New Rules,10,41,2025-05-19,Feature,2212,1
+866,Senators Face Pressure Over Housing Bill,1,1,2025-05-20,Feature,2322,1
+867,Aid Groups Sign Landmark Trade Pact,2,7,2025-05-20,News,1100,1
+868,Streaming Services Prepare for Major Outage Risks,4,16,2025-05-20,News,997,1
+869,Why We Affordable Housing,5,18,2025-05-20,Opinion,746,1
+870,Marathon Runners Struggle Through Losing Streak,6,22,2025-05-20,Analysis,969,1
+871,Slow-Cooker Lentil Soup,9,37,2025-05-20,Recipe,901,1
+872,Manhattan Shops Prepare for Winter Storm,10,41,2025-05-20,News,1024,1
+873,Campaigns Weigh Election Reform,1,4,2025-05-21,News,734,1
+874,European Leaders Sign Landmark Trade Pact,2,6,2025-05-21,News,948,1
+875,Streaming Services Race to Build Smarter Assistants,4,16,2025-05-21,Live Update,279,0
+876,The Case for Small Cities,5,17,2025-05-21,Opinion,688,1
+877,Broadway Shows Tell Stories of Migration,7,28,2025-05-21,News,1052,1
+878,Slow-Cooker Vegetable Curry,9,37,2025-05-21,Recipe,578,1
+879,Brooklyn Residents Adapt to New Rules,10,41,2025-05-21,News,832,1
+880,Voters Face Pressure Over Housing Bill,1,4,2025-05-22,News,1688,1
+881,UN Envoys Push for Ceasefire Talks,2,8,2025-05-22,News,1068,1
+882,Banks Cut Jobs as Costs Rise,3,11,2025-05-22,News,1546,1
+883,In Defense of Affordable Housing,5,19,2025-05-22,Opinion,1307,1
+884,Five-Ingredient Apple Cake,9,39,2025-05-22,Recipe,368,1
+885,Senators Weigh Election Reform,1,4,2025-05-23,News,1294,1
+886,Regional Allies Sign Landmark Trade Pact,2,7,2025-05-23,Feature,1918,1
+887,Small Businesses Rethink Office Return Plans,3,13,2025-05-23,News,1037,1
+888,The Case for Small Cities,5,18,2025-05-23,Opinion,314,1
+889,The Yankees Look Ahead to Playoffs,6,22,2025-05-23,News,1091,1
+890,Subway Riders Push for Safer Streets,10,44,2025-05-23,News,561,1
+891,Banks Report Stronger-Than-Expected Profits,3,10,2025-05-24,Live Update,914,0
+892,Streaming Services Race to Build Smarter Assistants,4,15,2025-05-24,News,513,1
+893,Marathon Runners Return From Injury,6,24,2025-05-24,Feature,1353,0
+894,One-Pan Salmon Bowls,9,38,2025-05-24,Recipe,393,1
+895,Queens Restaurants Adapt to New Rules,10,41,2025-05-24,News,568,1
+896,Trade Ministers Push for Ceasefire Talks,2,6,2025-05-25,News,1023,1
+897,Cybersecurity Teams Unveil Next-Generation Devices,4,15,2025-05-25,Feature,2023,1
+898,Doctors Build Cleaner Batteries,8,32,2025-05-25,Live Update,712,0
+899,Slow-Cooker Pasta With Greens,9,38,2025-05-25,Recipe,953,1
+900,Bronx Tenants Push for Safer Streets,10,43,2025-05-25,News,991,1
+901,Senators Debate New Budget Plan,1,4,2025-05-26,News,1605,1
+902,City Council Members Clash Over Tax Proposal,1,2,2025-05-26,News,1097,0
+903,Regional Allies Respond to Refugee Crisis,2,7,2025-05-26,News,1117,1
+904,Chip Companies Unveil Next-Generation Devices,4,16,2025-05-26,Feature,1710,1
+905,The Yankees Break a Season Record,6,22,2025-05-26,News,772,1
+906,Crispy Pasta With Greens,9,40,2025-05-26,Recipe,761,1
+907,House Leaders Debate New Budget Plan,1,2,2025-05-27,News,1029,1
+908,Aid Groups Sign Landmark Trade Pact,2,6,2025-05-27,News,1516,1
+909,Retailers Bet Big on Electric Future,3,10,2025-05-27,News,738,1
+910,AI Startups Prepare for Major Outage Risks,4,15,2025-05-27,News,799,0
+911,Tennis Stars Make a Bold Trade,6,25,2025-05-27,Live Update,631,0
+912,Jazz Musicians Revive a Forgotten Classic,7,28,2025-05-27,Analysis,734,1
+913,Five-Ingredient Salmon Bowls,9,39,2025-05-27,Recipe,980,1
+914,Senators Shift Strategy Before Midterms,1,4,2025-05-28,News,1384,1
+915,Trade Ministers Warn of Food Shortages,2,6,2025-05-28,Live Update,710,0
+916,Banks Cut Jobs as Costs Rise,3,13,2025-05-28,News,971,1
+917,AI Startups Face New Privacy Rules,4,14,2025-05-28,Live Update,416,0
+918,Marathon Runners Break a Season Record,6,22,2025-05-28,Feature,1521,1
+919,House Leaders Clash Over Tax Proposal,1,2,2025-05-29,News,776,0
+920,Governors Signal Compromise on Spending,1,3,2025-05-29,News,1640,1
+921,UN Envoys Warn of Food Shortages,2,6,2025-05-29,News,645,1
+922,Automakers Bet Big on Electric Future,3,10,2025-05-29,Analysis,1506,1
+923,Social Platforms Prepare for Major Outage Risks,4,15,2025-05-29,Live Update,559,0
+924,Marine Biologists Test a New Vaccine Approach,8,32,2025-05-29,News,1090,1
+925,Voters Clash Over Tax Proposal,1,4,2025-05-30,News,975,1
+926,Governors Shift Strategy Before Midterms,1,2,2025-05-30,Analysis,2273,0
+927,Coastal Nations Meet Amid Rising Tensions,2,7,2025-05-30,News,1044,0
+928,Airlines Rethink Office Return Plans,3,11,2025-05-30,Feature,2134,1
+929,Smartphone Makers Unveil Next-Generation Devices,4,14,2025-05-30,News,621,1
+930,Researchers Map a Warming Ocean,8,35,2025-05-30,News,805,1
+931,Governors Shift Strategy Before Midterms,1,1,2025-05-31,Feature,1787,1
+932,Airlines Report Stronger-Than-Expected Profits,3,9,2025-05-31,Live Update,870,0
+933,Jazz Musicians Find a New Audience,7,30,2025-05-31,Feature,1848,1
+934,Doctors Build Cleaner Batteries,8,35,2025-05-31,News,1458,1
+935,Weeknight Apple Cake,9,39,2025-05-31,Recipe,501,1
+936,Campaigns Clash Over Tax Proposal,1,1,2025-06-01,News,761,1
+937,Airlines Bet Big on Electric Future,3,10,2025-06-01,News,652,1
+938,Easy Lentil Soup,9,36,2025-06-01,Recipe,730,1
+939,House Leaders Weigh Election Reform,1,2,2025-06-02,Analysis,1163,1
+940,Trade Ministers Sign Landmark Trade Pact,2,7,2025-06-02,News,935,1
+941,Chip Companies Raise Prices Again,4,16,2025-06-02,News,719,1
+942,The Hidden Cost of Screen Time,5,20,2025-06-02,Opinion,706,1
+943,Broadway Shows Tell Stories of Migration,7,29,2025-06-02,Analysis,986,0
+944,Engineers Test a New Vaccine Approach,8,31,2025-06-02,Live Update,340,0
+945,Easy Lemon Chicken,9,36,2025-06-02,Recipe,642,1
+946,House Leaders Clash Over Tax Proposal,1,2,2025-06-03,News,1315,1
+947,Aid Groups Sign Landmark Trade Pact,2,6,2025-06-03,News,1702,1
+948,The Case for Public Transit,5,17,2025-06-03,Opinion,1186,1
+949,City Council Members Shift Strategy Before Midterms,1,2,2025-06-04,News,1401,1
+950,Governors Debate New Budget Plan,1,2,2025-06-04,Analysis,1233,1
+951,Regional Allies Push for Ceasefire Talks,2,6,2025-06-04,Feature,1468,1
+952,In Defense of Affordable Housing,5,19,2025-06-04,Opinion,1235,1
+953,Astronomers Test a New Vaccine Approach,8,35,2025-06-04,Feature,1306,1
+954,Slow-Cooker Vegetable Curry,9,38,2025-06-04,Recipe,447,1
+955,Manhattan Shops Adapt to New Rules,10,41,2025-06-04,News,799,1
+956,Senators Shift Strategy Before Midterms,1,1,2025-06-05,News,2079,0
+957,Campaigns Signal Compromise on Spending,1,4,2025-06-05,News,2056,1
+958,Regional Allies Sign Landmark Trade Pact,2,8,2025-06-05,News,1554,1
+959,Retailers Report Stronger-Than-Expected Profits,3,10,2025-06-05,Analysis,650,1
+960,Social Platforms Face New Privacy Rules,4,14,2025-06-05,News,976,1
+961,The Yankees Clinch a Thrilling Win,6,22,2025-06-05,Live Update,448,0
+962,Broadway Shows Draw Record Crowds,7,29,2025-06-05,News,1329,1
+963,Climate Scientists Discover Surprising Signal,8,32,2025-06-05,Feature,1299,1
+964,Weeknight Lentil Soup,9,36,2025-06-05,Recipe,515,0
+965,City Council Members Weigh Election Reform,1,4,2025-06-06,News,1320,1
+966,Voters Debate New Budget Plan,1,5,2025-06-06,Feature,2356,1
+967,Regional Allies Meet Amid Rising Tensions,2,8,2025-06-06,Feature,2208,0
+968,Banks Brace for Slower Holiday Sales,3,10,2025-06-06,News,1314,1
+969,The Yankees Clinch a Thrilling Win,6,22,2025-06-06,News,904,0
+970,Manhattan Shops Prepare for Winter Storm,10,45,2025-06-06,Analysis,1287,1
+971,Governors Face Pressure Over Housing Bill,1,5,2025-06-07,News,1311,0
+972,In Defense of Remote Work,5,21,2025-06-07,Opinion,845,0
+973,Tennis Stars Struggle Through Losing Streak,6,23,2025-06-07,News,423,1
+974,One-Pan Vegetable Curry,9,37,2025-06-07,Recipe,597,0
+975,House Leaders Signal Compromise on Spending,1,1,2025-06-08,News,1910,0
+976,Aid Groups Warn of Food Shortages,2,7,2025-06-08,Analysis,836,1
+977,Tech Giants Report Stronger-Than-Expected Profits,3,10,2025-06-08,Analysis,1623,1
+978,Streaming Services Race to Build Smarter Assistants,4,15,2025-06-08,News,833,1
+979,It Is Time to Rethink Remote Work,5,21,2025-06-08,Opinion,1249,0
+980,Tennis Stars Return From Injury,6,22,2025-06-08,News,874,1
+981,Broadway Shows Draw Record Crowds,7,26,2025-06-08,News,1239,1
+982,Brooklyn Residents Celebrate a Neighborhood Revival,10,45,2025-06-08,Analysis,782,1
+983,Senators Weigh Election Reform,1,5,2025-06-09,Live Update,435,0
+984,Trade Ministers Respond to Refugee Crisis,2,6,2025-06-09,Analysis,986,1
+985,Retailers Face New Interest Rate Reality,3,12,2025-06-09,News,1678,1
+986,AI Startups Race to Build Smarter Assistants,4,15,2025-06-09,News,808,1
+987,The Case for Affordable Housing,5,21,2025-06-09,Opinion,719,1
+988,Rookie Quarterbacks Break a Season Record,6,24,2025-06-09,News,977,1
+989,Indie Filmmakers Draw Record Crowds,7,26,2025-06-09,News,1211,1
+990,Researchers Map a Warming Ocean,8,35,2025-06-09,Live Update,588,0
+991,One-Pan Salmon Bowls,9,38,2025-06-09,Recipe,519,1
+992,Senators Signal Compromise on Spending,1,2,2025-06-10,Analysis,1220,1
+993,Campaigns Weigh Election Reform,1,5,2025-06-10,Analysis,1541,1
+994,European Leaders Respond to Refugee Crisis,2,7,2025-06-10,Analysis,974,1
+995,Airlines Brace for Slower Holiday Sales,3,10,2025-06-10,Live Update,512,0
+996,Smartphone Makers Face New Privacy Rules,4,14,2025-06-10,Analysis,1077,1
+997,Liberty Players Break a Season Record,6,24,2025-06-10,Live Update,775,0
+998,Queens Restaurants Fight Rising Rents,10,45,2025-06-10,Feature,558,1
+999,Senators Clash Over Tax Proposal,1,2,2025-06-11,News,1259,1
+1000,Trade Ministers Sign Landmark Trade Pact,2,7,2025-06-11,Analysis,1288,1
+1001,Banks Brace for Slower Holiday Sales,3,12,2025-06-11,News,628,1
+1002,Liberty Players Struggle Through Losing Streak,6,22,2025-06-11,News,606,1
+1003,Campaigns Face Pressure Over Housing Bill,1,3,2025-06-12,News,939,1
+1004,Regional Allies Push for Ceasefire Talks,2,7,2025-06-12,News,1217,1
+1005,Retailers Report Stronger-Than-Expected Profits,3,12,2025-06-12,News,1518,1
+1006,Why We Public Transit,5,20,2025-06-12,Opinion,679,1
+1007,Five-Ingredient Salmon Bowls,9,38,2025-06-12,Recipe,825,1
+1008,Manhattan Shops Fight Rising Rents,10,45,2025-06-12,News,1064,1
+1009,Campaigns Weigh Election Reform,1,3,2025-06-13,Analysis,1595,1
+1010,Campaigns Face Pressure Over Housing Bill,1,2,2025-06-13,Live Update,1156,0
+1011,Regional Allies Sign Landmark Trade Pact,2,7,2025-06-13,Analysis,1229,0
+1012,Tennis Stars Return From Injury,6,23,2025-06-13,News,696,1
+1013,City Schools Adapt to New Rules,10,41,2025-06-13,News,929,1
+1014,City Council Members Weigh Election Reform,1,1,2025-06-14,Analysis,966,1
+1015,Airlines Cut Jobs as Costs Rise,3,9,2025-06-14,News,1267,1
+1016,Chip Companies Raise Prices Again,4,14,2025-06-14,Analysis,1433,1
+1017,The Yankees Look Ahead to Playoffs,6,23,2025-06-14,Analysis,894,1
+1018,Indie Filmmakers Draw Record Crowds,7,26,2025-06-14,News,1477,1
+1019,Five-Ingredient Vegetable Curry,9,40,2025-06-14,Recipe,827,1
+1020,Voters Debate New Budget Plan,1,5,2025-06-15,News,1379,1
+1021,Retailers Bet Big on Electric Future,3,13,2025-06-15,Feature,2919,1
+1022,What Leaders Miss About Small Cities,5,18,2025-06-15,Opinion,1232,0
+1023,Marathon Runners Struggle Through Losing Streak,6,25,2025-06-15,News,1419,1
+1024,Broadway Shows Tell Stories of Migration,7,30,2025-06-15,Analysis,649,1
+1025,Five-Ingredient Lentil Soup,9,36,2025-06-15,Recipe,917,1
+1026,Senators Clash Over Tax Proposal,1,3,2025-06-16,News,1304,1
+1027,Trade Ministers Agree on New Climate Targets,2,6,2025-06-16,News,1307,1
+1028,Airlines Rethink Office Return Plans,3,10,2025-06-16,Feature,2469,0
+1029,Marathon Runners Break a Season Record,6,23,2025-06-16,Analysis,875,1
+1030,Campaigns Face Pressure Over Housing Bill,1,3,2025-06-17,News,1358,1
+1031,Trade Ministers Push for Ceasefire Talks,2,7,2025-06-17,News,1235,1
+1032,Automakers Rethink Office Return Plans,3,9,2025-06-17,News,1529,1
+1033,Streaming Services Prepare for Major Outage Risks,4,14,2025-06-17,News,1338,1
+1034,Why We Public Transit,5,17,2025-06-17,Opinion,549,1
+1035,Marathon Runners Return From Injury,6,22,2025-06-17,Analysis,672,1
+1036,Indie Filmmakers Draw Record Crowds,7,28,2025-06-17,Feature,1783,1
+1037,Governors Weigh Election Reform,1,5,2025-06-18,News,1791,1
+1038,Senators Debate New Budget Plan,1,1,2025-06-18,News,1053,1
+1039,Chip Companies Struggle to Keep Users,4,15,2025-06-18,News,1503,0
+1040,Rookie Quarterbacks Make a Bold Trade,6,25,2025-06-18,News,843,1
+1041,City Museums Divide the Critics,7,26,2025-06-18,News,1057,1
+1042,City Council Members Signal Compromise on Spending,1,4,2025-06-19,Live Update,322,0
+1043,Retailers Brace for Slower Holiday Sales,3,12,2025-06-19,News,1712,1
+1044,In Defense of Screen Time,5,17,2025-06-19,Opinion,1404,0
+1045,Jazz Musicians Draw Record Crowds,7,28,2025-06-19,News,968,1
+1046,Climate Scientists Discover Surprising Signal,8,32,2025-06-19,Analysis,2158,1
+1047,Weeknight Lemon Chicken,9,38,2025-06-19,Recipe,604,1
+1048,Voters Signal Compromise on Spending,1,4,2025-06-20,News,978,1
+1049,Aid Groups Warn of Food Shortages,2,8,2025-06-20,News,1416,1
+1050,The Knicks Clinch a Thrilling Win,6,22,2025-06-20,Feature,1333,1
+1051,Marine Biologists Test a New Vaccine Approach,8,35,2025-06-20,Feature,1609,1
+1052,Regional Allies Agree on New Climate Targets,2,8,2025-06-21,Live Update,856,0
+1053,Airlines Bet Big on Electric Future,3,13,2025-06-21,Live Update,514,0
+1054,Smartphone Makers Unveil Next-Generation Devices,4,16,2025-06-21,News,1354,1
+1055,Liberty Players Break a Season Record,6,22,2025-06-21,News,422,1
+1056,Easy Lentil Soup,9,37,2025-06-21,Recipe,685,1
+1057,Voters Debate New Budget Plan,1,4,2025-06-22,News,1452,1
+1058,Retailers Report Stronger-Than-Expected Profits,3,9,2025-06-22,News,1096,1
+1059,The Hidden Cost of Local News,5,17,2025-06-22,Opinion,779,1
+1060,Doctors Rethink Sleep and Memory,8,34,2025-06-22,News,891,0
+1061,One-Pan Apple Cake,9,36,2025-06-22,Recipe,647,1
+1062,House Leaders Shift Strategy Before Midterms,1,4,2025-06-23,News,1382,1
+1063,UN Envoys Agree on New Climate Targets,2,7,2025-06-23,Live Update,851,0
+1064,Automakers Rethink Office Return Plans,3,11,2025-06-23,Feature,2055,1
+1065,AI Startups Struggle to Keep Users,4,14,2025-06-23,Analysis,781,1
+1066,In Defense of Public Transit,5,20,2025-06-23,Opinion,980,1
+1067,Five-Ingredient Salmon Bowls,9,37,2025-06-23,Recipe,620,1
+1068,Governors Signal Compromise on Spending,1,5,2025-06-24,News,1192,1
+1069,Regional Allies Agree on New Climate Targets,2,8,2025-06-24,Feature,2961,1
+1070,Airlines Face New Interest Rate Reality,3,11,2025-06-24,Feature,2458,1
+1071,Streaming Services Struggle to Keep Users,4,15,2025-06-24,News,1541,1
+1072,It Is Time to Rethink Affordable Housing,5,18,2025-06-24,Opinion,1589,1
+1073,Governors Shift Strategy Before Midterms,1,4,2025-06-25,News,1406,1
+1074,Voters Shift Strategy Before Midterms,1,5,2025-06-25,Feature,1931,1
+1075,Aid Groups Meet Amid Rising Tensions,2,8,2025-06-25,Feature,2003,1
+1076,Retailers Bet Big on Electric Future,3,10,2025-06-25,News,954,1
+1077,Smartphone Makers Struggle to Keep Users,4,14,2025-06-25,Analysis,1305,1
+1078,Campaigns Shift Strategy Before Midterms,1,1,2025-06-26,News,1345,1
+1079,Campaigns Debate New Budget Plan,1,4,2025-06-26,News,1554,1
+1080,Trade Ministers Agree on New Climate Targets,2,8,2025-06-26,Analysis,907,1
+1081,Retailers Report Stronger-Than-Expected Profits,3,9,2025-06-26,News,896,1
+1082,AI Startups Raise Prices Again,4,14,2025-06-26,News,1300,1
+1083,Liberty Players Make a Bold Trade,6,25,2025-06-26,News,1186,1
+1084,Researchers Build Cleaner Batteries,8,34,2025-06-26,Analysis,1290,1
+1085,Voters Weigh Election Reform,1,1,2025-06-27,News,1082,1
+1086,House Leaders Face Pressure Over Housing Bill,1,5,2025-06-27,Feature,2750,1
+1087,UN Envoys Sign Landmark Trade Pact,2,6,2025-06-27,Feature,2233,1
+1088,Subway Riders Adapt to New Rules,10,41,2025-06-27,Feature,1481,1
+1089,City Council Members Weigh Election Reform,1,5,2025-06-28,Feature,1314,1
+1090,Social Platforms Raise Prices Again,4,15,2025-06-28,News,1068,1
+1091,The Knicks Return From Injury,6,24,2025-06-28,News,677,1
+1092,New Novels Capture the City's Mood,7,30,2025-06-28,Analysis,888,1
+1093,City Schools Push for Safer Streets,10,43,2025-06-28,News,750,1
+1094,Senators Face Pressure Over Housing Bill,1,4,2025-06-29,News,1213,1
+1095,The Knicks Return From Injury,6,24,2025-06-29,Analysis,510,0
+1096,Easy Vegetable Curry,9,38,2025-06-29,Recipe,711,1
+1097,House Leaders Face Pressure Over Housing Bill,1,2,2025-06-30,Analysis,984,1
+1098,UN Envoys Push for Ceasefire Talks,2,6,2025-06-30,Feature,1591,1
+1099,Small Businesses Face New Interest Rate Reality,3,12,2025-06-30,Live Update,869,0
+1100,Smartphone Makers Raise Prices Again,4,16,2025-06-30,Live Update,940,0
+1101,Crispy Vegetable Curry,9,39,2025-06-30,Recipe,576,1
+1102,Campaigns Clash Over Tax Proposal,1,1,2025-07-01,Analysis,1036,1
+1103,Trade Ministers Sign Landmark Trade Pact,2,6,2025-07-01,News,1462,0
+1104,Banks Rethink Office Return Plans,3,9,2025-07-01,Feature,707,1
+1105,Voters Weigh Election Reform,1,4,2025-07-02,Feature,2633,1
+1106,Governors Shift Strategy Before Midterms,1,2,2025-07-02,Feature,2485,0
+1107,European Leaders Warn of Food Shortages,2,8,2025-07-02,Live Update,862,0
+1108,The Hidden Cost of Public Transit,5,18,2025-07-02,Opinion,704,1
+1109,Five-Ingredient Lemon Chicken,9,39,2025-07-02,Recipe,673,1
+1110,Voters Face Pressure Over Housing Bill,1,3,2025-07-03,Analysis,1365,1
+1111,Coastal Nations Sign Landmark Trade Pact,2,6,2025-07-03,News,1556,1
+1112,Social Platforms Race to Build Smarter Assistants,4,16,2025-07-03,Feature,1834,1
+1113,Easy Apple Cake,9,39,2025-07-03,Recipe,677,1
+1114,Governors Shift Strategy Before Midterms,1,3,2025-07-04,News,1609,1
+1115,Coastal Nations Meet Amid Rising Tensions,2,7,2025-07-04,Analysis,1370,1
+1116,Chip Companies Raise Prices Again,4,14,2025-07-04,Live Update,614,0
+1117,Why We Affordable Housing,5,21,2025-07-04,Opinion,850,1
+1118,Tennis Stars Clinch a Thrilling Win,6,25,2025-07-04,News,594,0
+1119,Young Painters Draw Record Crowds,7,30,2025-07-04,Analysis,818,1
+1120,Researchers Rethink Sleep and Memory,8,34,2025-07-04,News,887,0
+1121,Five-Ingredient Apple Cake,9,39,2025-07-04,Recipe,357,1
+1122,Campaigns Signal Compromise on Spending,1,1,2025-07-05,News,825,1
+1123,Five-Ingredient Lemon Chicken,9,37,2025-07-05,Recipe,740,1
+1124,Regional Allies Meet Amid Rising Tensions,2,6,2025-07-06,News,633,1
+1125,Chip Companies Raise Prices Again,4,14,2025-07-06,Analysis,668,1
+1126,The Knicks Break a Season Record,6,25,2025-07-06,News,584,1
+1127,Indie Filmmakers Draw Record Crowds,7,26,2025-07-06,Analysis,904,1
+1128,Weeknight Apple Cake,9,40,2025-07-06,Recipe,745,1
+1129,Campaigns Weigh Election Reform,1,3,2025-07-07,News,1801,1
+1130,Voters Weigh Election Reform,1,1,2025-07-07,Feature,1837,0
+1131,Aid Groups Sign Landmark Trade Pact,2,7,2025-07-07,News,1403,1
+1132,The Case for Local News,5,17,2025-07-07,Opinion,516,1
+1133,New Novels Draw Record Crowds,7,27,2025-07-07,News,986,1
+1134,One-Pan Salmon Bowls,9,37,2025-07-07,Recipe,916,1
+1135,Manhattan Shops Adapt to New Rules,10,41,2025-07-07,Feature,1398,1
+1136,Senators Face Pressure Over Housing Bill,1,1,2025-07-08,News,2069,1
+1137,Aid Groups Agree on New Climate Targets,2,7,2025-07-08,News,1193,1
+1138,Retailers Face New Interest Rate Reality,3,13,2025-07-08,Feature,1260,1
+1139,What Leaders Miss About Small Cities,5,18,2025-07-08,Opinion,753,1
+1140,The Yankees Return From Injury,6,24,2025-07-08,Analysis,753,1
+1141,Jazz Musicians Revive a Forgotten Classic,7,27,2025-07-08,News,1456,1
+1142,House Leaders Face Pressure Over Housing Bill,1,1,2025-07-09,News,1738,1
+1143,Regional Allies Meet Amid Rising Tensions,2,8,2025-07-09,News,1705,0
+1144,Banks Cut Jobs as Costs Rise,3,12,2025-07-09,Analysis,1451,1
+1145,Chip Companies Unveil Next-Generation Devices,4,14,2025-07-09,Feature,2034,1
+1146,The Hidden Cost of Local News,5,19,2025-07-09,Opinion,844,1
+1147,The Yankees Make a Bold Trade,6,22,2025-07-09,News,886,1
+1148,Indie Filmmakers Divide the Critics,7,26,2025-07-09,News,909,1
+1149,Researchers Build Cleaner Batteries,8,35,2025-07-09,News,1269,1
+1150,Senators Signal Compromise on Spending,1,2,2025-07-10,Analysis,1613,1
+1151,Senators Face Pressure Over Housing Bill,1,2,2025-07-10,Analysis,1015,0
+1152,Coastal Nations Respond to Refugee Crisis,2,8,2025-07-10,News,1023,1
+1153,Smartphone Makers Unveil Next-Generation Devices,4,16,2025-07-10,Analysis,730,1
+1154,Liberty Players Clinch a Thrilling Win,6,24,2025-07-10,Feature,1864,1
+1155,Senators Clash Over Tax Proposal,1,3,2025-07-11,News,1004,0
+1156,Regional Allies Push for Ceasefire Talks,2,6,2025-07-11,News,1247,1
+1157,Rookie Quarterbacks Return From Injury,6,22,2025-07-11,Feature,1364,1
+1158,Astronomers Map a Warming Ocean,8,32,2025-07-11,Feature,2496,1
+1159,House Leaders Clash Over Tax Proposal,1,2,2025-07-12,News,1294,0
+1160,Airlines Brace for Slower Holiday Sales,3,13,2025-07-12,Live Update,528,0
+1161,Crispy Apple Cake,9,38,2025-07-12,Recipe,250,1
+1162,House Leaders Signal Compromise on Spending,1,5,2025-07-13,Live Update,763,0
+1163,UN Envoys Agree on New Climate Targets,2,6,2025-07-13,News,373,1
+1164,Doctors Rethink Sleep and Memory,8,34,2025-07-13,News,761,1
+1165,Five-Ingredient Vegetable Curry,9,38,2025-07-13,Recipe,653,0
+1166,Senators Face Pressure Over Housing Bill,1,1,2025-07-14,News,1352,1
+1167,European Leaders Push for Ceasefire Talks,2,7,2025-07-14,Analysis,1036,1
+1168,Banks Cut Jobs as Costs Rise,3,9,2025-07-14,News,733,1
+1169,AI Startups Prepare for Major Outage Risks,4,15,2025-07-14,News,796,1
+1170,In Defense of Remote Work,5,18,2025-07-14,Opinion,1752,1
+1171,Tennis Stars Look Ahead to Playoffs,6,23,2025-07-14,News,755,1
+1172,Astronomers Build Cleaner Batteries,8,31,2025-07-14,Feature,2687,1
+1173,Queens Restaurants Adapt to New Rules,10,45,2025-07-14,News,1209,1
+1174,House Leaders Shift Strategy Before Midterms,1,4,2025-07-15,Analysis,760,1
+1175,Aid Groups Respond to Refugee Crisis,2,8,2025-07-15,Analysis,594,1
+1176,Automakers Rethink Office Return Plans,3,12,2025-07-15,News,1362,1
+1177,Rookie Quarterbacks Struggle Through Losing Streak,6,23,2025-07-15,Analysis,542,1
+1178,Crispy Lentil Soup,9,37,2025-07-15,Recipe,567,1
+1179,Manhattan Shops Fight Rising Rents,10,41,2025-07-15,News,513,1
+1180,House Leaders Weigh Election Reform,1,3,2025-07-16,News,1548,1
+1181,European Leaders Sign Landmark Trade Pact,2,7,2025-07-16,Feature,2979,1
+1182,Airlines Report Stronger-Than-Expected Profits,3,13,2025-07-16,News,1409,1
+1183,The Knicks Break a Season Record,6,25,2025-07-16,Analysis,694,1
+1184,Jazz Musicians Revive a Forgotten Classic,7,28,2025-07-16,News,557,1
+1185,Manhattan Shops Celebrate a Neighborhood Revival,10,44,2025-07-16,Feature,1306,1
+1186,Governors Signal Compromise on Spending,1,4,2025-07-17,News,1596,1
+1187,City Council Members Debate New Budget Plan,1,4,2025-07-17,News,1394,1
+1188,Trade Ministers Meet Amid Rising Tensions,2,8,2025-07-17,News,1344,1
+1189,Airlines Report Stronger-Than-Expected Profits,3,9,2025-07-17,Analysis,1012,0
+1190,Cybersecurity Teams Race to Build Smarter Assistants,4,16,2025-07-17,News,564,1
+1191,The Yankees Look Ahead to Playoffs,6,22,2025-07-17,Analysis,891,0
+1192,Astronomers Test a New Vaccine Approach,8,35,2025-07-17,News,1428,1
+1193,One-Pan Pasta With Greens,9,37,2025-07-17,Recipe,400,1
+1194,Voters Face Pressure Over Housing Bill,1,3,2025-07-18,News,615,1
+1195,Trade Ministers Agree on New Climate Targets,2,8,2025-07-18,News,978,1
+1196,Tech Giants Report Stronger-Than-Expected Profits,3,13,2025-07-18,News,975,1
+1197,The Case for Screen Time,5,21,2025-07-18,Opinion,826,1
+1198,Easy Vegetable Curry,9,39,2025-07-18,Recipe,728,1
+1199,Senators Shift Strategy Before Midterms,1,1,2025-07-19,Analysis,985,1
+1200,European Leaders Meet Amid Rising Tensions,2,6,2025-07-19,Analysis,812,0
+1201,Astronomers Test a New Vaccine Approach,8,33,2025-07-19,News,767,0
+1202,Coastal Nations Agree on New Climate Targets,2,8,2025-07-20,Live Update,919,0
+1203,Tech Giants Report Stronger-Than-Expected Profits,3,9,2025-07-20,News,478,1
+1204,Jazz Musicians Revive a Forgotten Classic,7,27,2025-07-20,News,1414,1
+1205,Voters Face Pressure Over Housing Bill,1,4,2025-07-21,News,1741,1
+1206,Regional Allies Meet Amid Rising Tensions,2,8,2025-07-21,News,1045,1
+1207,Small Businesses Report Stronger-Than-Expected Profits,3,12,2025-07-21,News,935,1
+1208,Social Platforms Struggle to Keep Users,4,14,2025-07-21,News,704,1
+1209,Five-Ingredient Vegetable Curry,9,39,2025-07-21,Recipe,528,1
+1210,Bronx Tenants Celebrate a Neighborhood Revival,10,41,2025-07-21,News,699,1
+1211,Campaigns Signal Compromise on Spending,1,4,2025-07-22,Analysis,1283,1
+1212,Aid Groups Warn of Food Shortages,2,6,2025-07-22,News,1389,1
+1213,Retailers Cut Jobs as Costs Rise,3,11,2025-07-22,News,708,1
+1214,Chip Companies Face New Privacy Rules,4,16,2025-07-22,News,406,1
+1215,The Case for Screen Time,5,17,2025-07-22,Opinion,1191,1
+1216,Weeknight Pasta With Greens,9,39,2025-07-22,Recipe,1017,0
+1217,Senators Debate New Budget Plan,1,2,2025-07-23,News,1846,1
+1218,Regional Allies Agree on New Climate Targets,2,7,2025-07-23,News,1361,1
+1219,Banks Report Stronger-Than-Expected Profits,3,13,2025-07-23,News,1078,1
+1220,Chip Companies Face New Privacy Rules,4,15,2025-07-23,Live Update,793,0
+1221,What Leaders Miss About Public Transit,5,20,2025-07-23,Opinion,404,1
+1222,City Council Members Debate New Budget Plan,1,1,2025-07-24,News,1290,1
+1223,Governors Clash Over Tax Proposal,1,4,2025-07-24,News,1511,1
+1224,Coastal Nations Agree on New Climate Targets,2,7,2025-07-24,News,1458,1
+1225,Tech Giants Brace for Slower Holiday Sales,3,10,2025-07-24,Feature,3151,0
+1226,Doctors Rethink Sleep and Memory,8,34,2025-07-24,Analysis,781,1
+1227,Easy Vegetable Curry,9,37,2025-07-24,Recipe,597,1
+1228,Brooklyn Residents Prepare for Winter Storm,10,45,2025-07-24,Feature,2376,1
+1229,City Council Members Weigh Election Reform,1,4,2025-07-25,News,1742,1
+1230,Campaigns Weigh Election Reform,1,4,2025-07-25,Feature,1902,1
+1231,Coastal Nations Meet Amid Rising Tensions,2,6,2025-07-25,News,1510,1
+1232,Small Businesses Rethink Office Return Plans,3,13,2025-07-25,Analysis,1239,1
+1233,Why We Public Transit,5,21,2025-07-25,Opinion,1539,1
+1234,Brooklyn Residents Celebrate a Neighborhood Revival,10,41,2025-07-25,Live Update,392,0
+1235,Voters Signal Compromise on Spending,1,3,2025-07-26,Feature,2289,1
+1236,Regional Allies Agree on New Climate Targets,2,8,2025-07-26,News,1279,1
+1237,It Is Time to Rethink Small Cities,5,19,2025-07-26,Opinion,1183,1
+1238,Marine Biologists Build Cleaner Batteries,8,35,2025-07-26,Analysis,1832,1
+1239,Easy Vegetable Curry,9,40,2025-07-26,Recipe,806,1
+1240,Governors Signal Compromise on Spending,1,2,2025-07-27,News,617,1
+1241,Coastal Nations Warn of Food Shortages,2,6,2025-07-27,Analysis,782,1
+1242,Automakers Rethink Office Return Plans,3,9,2025-07-27,Analysis,1309,1
+1243,Marathon Runners Look Ahead to Playoffs,6,22,2025-07-27,Analysis,496,0
+1244,Five-Ingredient Apple Cake,9,40,2025-07-27,Recipe,971,1
+1245,Campaigns Weigh Election Reform,1,1,2025-07-28,Live Update,720,0
+1246,Regional Allies Meet Amid Rising Tensions,2,6,2025-07-28,News,1639,1
+1247,Tech Giants Report Stronger-Than-Expected Profits,3,13,2025-07-28,News,570,1
+1248,Social Platforms Unveil Next-Generation Devices,4,15,2025-07-28,News,1052,0
+1249,The Knicks Return From Injury,6,24,2025-07-28,News,816,1
+1250,Jazz Musicians Tell Stories of Migration,7,30,2025-07-28,News,600,1
+1251,Engineers Test a New Vaccine Approach,8,32,2025-07-28,Analysis,1308,1
+1252,House Leaders Shift Strategy Before Midterms,1,4,2025-07-29,News,1749,1
+1253,Aid Groups Push for Ceasefire Talks,2,7,2025-07-29,Analysis,1209,1
+1254,Banks Cut Jobs as Costs Rise,3,9,2025-07-29,Analysis,1139,1
+1255,Rookie Quarterbacks Clinch a Thrilling Win,6,24,2025-07-29,Feature,1161,1
+1256,Researchers Discover Surprising Signal,8,35,2025-07-29,News,1015,0
+1257,Five-Ingredient Lentil Soup,9,39,2025-07-29,Recipe,712,0
+1258,Manhattan Shops Push for Safer Streets,10,42,2025-07-29,Live Update,793,0
+1259,House Leaders Shift Strategy Before Midterms,1,5,2025-07-30,News,1195,1
+1260,Voters Shift Strategy Before Midterms,1,1,2025-07-30,Feature,2061,1
+1261,Coastal Nations Agree on New Climate Targets,2,7,2025-07-30,News,1045,0
+1262,Banks Rethink Office Return Plans,3,9,2025-07-30,News,656,1
+1263,Chip Companies Struggle to Keep Users,4,15,2025-07-30,News,607,1
+1264,The Knicks Return From Injury,6,22,2025-07-30,News,831,1
+1265,Indie Filmmakers Capture the City's Mood,7,26,2025-07-30,News,1139,1
+1266,Marine Biologists Map a Warming Ocean,8,33,2025-07-30,News,1091,1
+1267,Queens Restaurants Adapt to New Rules,10,42,2025-07-30,News,1054,1
+1268,Voters Shift Strategy Before Midterms,1,2,2025-07-31,News,819,1
+1269,House Leaders Shift Strategy Before Midterms,1,3,2025-07-31,Feature,2455,1
+1270,European Leaders Warn of Food Shortages,2,8,2025-07-31,News,781,1
+1271,Small Businesses Brace for Slower Holiday Sales,3,12,2025-07-31,Analysis,1520,1
+1272,Liberty Players Look Ahead to Playoffs,6,23,2025-07-31,News,1367,0
+1273,One-Pan Salmon Bowls,9,37,2025-07-31,Recipe,778,0
+1274,Brooklyn Residents Adapt to New Rules,10,43,2025-07-31,News,629,1
+1275,Governors Clash Over Tax Proposal,1,4,2025-08-01,News,1312,1
+1276,UN Envoys Push for Ceasefire Talks,2,8,2025-08-01,News,1186,1
+1277,Retailers Rethink Office Return Plans,3,9,2025-08-01,Live Update,636,0
+1278,Chip Companies Raise Prices Again,4,14,2025-08-01,Feature,1171,1
+1279,The Knicks Make a Bold Trade,6,23,2025-08-01,Analysis,706,1
+1280,Campaigns Weigh Election Reform,1,4,2025-08-02,News,1047,1
+1281,Tech Giants Rethink Office Return Plans,3,9,2025-08-02,Analysis,1386,1
+1282,Chip Companies Race to Build Smarter Assistants,4,16,2025-08-02,Analysis,458,1
+1283,The Case for Remote Work,5,20,2025-08-02,Opinion,964,1
+1284,Young Painters Draw Record Crowds,7,30,2025-08-02,Live Update,481,0
+1285,One-Pan Lentil Soup,9,38,2025-08-02,Recipe,531,1
+1286,Voters Signal Compromise on Spending,1,1,2025-08-03,News,1261,1
+1287,Regional Allies Sign Landmark Trade Pact,2,7,2025-08-03,News,1041,1
+1288,Retailers Bet Big on Electric Future,3,11,2025-08-03,Live Update,849,0
+1289,Smartphone Makers Face New Privacy Rules,4,15,2025-08-03,Live Update,415,0
+1290,Broadway Shows Draw Record Crowds,7,27,2025-08-03,Analysis,1081,1
+1291,One-Pan Vegetable Curry,9,39,2025-08-03,Recipe,481,1
+1292,Voters Weigh Election Reform,1,2,2025-08-04,Feature,2971,1
+1293,Airlines Bet Big on Electric Future,3,13,2025-08-04,Analysis,958,1
+1294,Rookie Quarterbacks Look Ahead to Playoffs,6,24,2025-08-04,Live Update,693,0
+1295,Engineers Discover Surprising Signal,8,31,2025-08-04,News,1585,1
+1296,Crispy Apple Cake,9,38,2025-08-04,Recipe,891,1
+1297,Subway Riders Push for Safer Streets,10,45,2025-08-04,Feature,1080,1
+1298,Senators Weigh Election Reform,1,3,2025-08-05,Analysis,723,1
+1299,Governors Shift Strategy Before Midterms,1,4,2025-08-05,Analysis,1480,1
+1300,Regional Allies Sign Landmark Trade Pact,2,7,2025-08-05,Live Update,544,0
+1301,Airlines Face New Interest Rate Reality,3,10,2025-08-05,Analysis,382,1
+1302,Social Platforms Raise Prices Again,4,14,2025-08-05,Feature,1859,1
+1303,In Defense of Affordable Housing,5,18,2025-08-05,Opinion,1026,1
+1304,House Leaders Face Pressure Over Housing Bill,1,4,2025-08-06,Feature,2872,1
+1305,Aid Groups Sign Landmark Trade Pact,2,6,2025-08-06,Analysis,1158,1
+1306,Tech Giants Face New Interest Rate Reality,3,12,2025-08-06,News,1310,1
+1307,Social Platforms Race to Build Smarter Assistants,4,14,2025-08-06,Live Update,454,0
+1308,What Leaders Miss About Affordable Housing,5,20,2025-08-06,Opinion,1194,1
+1309,Liberty Players Return From Injury,6,22,2025-08-06,Analysis,785,0
+1310,Indie Filmmakers Capture the City's Mood,7,30,2025-08-06,Feature,1783,1
+1311,Astronomers Rethink Sleep and Memory,8,33,2025-08-06,News,2157,1
+1312,Slow-Cooker Pasta With Greens,9,39,2025-08-06,Recipe,407,1
+1313,Governors Clash Over Tax Proposal,1,2,2025-08-07,News,1161,1
+1314,UN Envoys Meet Amid Rising Tensions,2,6,2025-08-07,Analysis,853,1
+1315,Tech Giants Rethink Office Return Plans,3,12,2025-08-07,News,965,1
+1316,In Defense of Affordable Housing,5,20,2025-08-07,Opinion,1073,1
+1317,Marathon Runners Look Ahead to Playoffs,6,22,2025-08-07,News,925,1
+1318,Manhattan Shops Adapt to New Rules,10,41,2025-08-07,News,923,1
+1319,Senators Signal Compromise on Spending,1,4,2025-08-08,News,511,1
+1320,Trade Ministers Warn of Food Shortages,2,6,2025-08-08,Live Update,829,0
+1321,Retailers Bet Big on Electric Future,3,12,2025-08-08,News,1544,1
+1322,Why We Public Transit,5,19,2025-08-08,Opinion,742,1
+1323,The Knicks Return From Injury,6,22,2025-08-08,Feature,1805,1
+1324,One-Pan Lemon Chicken,9,37,2025-08-08,Recipe,705,1
+1325,Voters Weigh Election Reform,1,5,2025-08-09,Analysis,454,1
+1326,Trade Ministers Respond to Refugee Crisis,2,8,2025-08-09,News,1153,1
+1327,Retailers Bet Big on Electric Future,3,12,2025-08-09,Feature,1949,1
+1328,Indie Filmmakers Find a New Audience,7,29,2025-08-09,News,544,0
+1329,Slow-Cooker Lemon Chicken,9,36,2025-08-09,Recipe,1172,1
+1330,City Schools Push for Safer Streets,10,41,2025-08-09,News,839,1
+1331,Governors Face Pressure Over Housing Bill,1,3,2025-08-10,News,502,1
+1332,European Leaders Warn of Food Shortages,2,7,2025-08-10,News,918,1
+1333,Automakers Rethink Office Return Plans,3,13,2025-08-10,Live Update,802,0
+1334,Smartphone Makers Prepare for Major Outage Risks,4,16,2025-08-10,Live Update,486,0
+1335,What Leaders Miss About Affordable Housing,5,18,2025-08-10,Opinion,1168,1
+1336,Astronomers Map a Warming Ocean,8,33,2025-08-10,Analysis,1658,1
+1337,Senators Face Pressure Over Housing Bill,1,1,2025-08-11,Live Update,611,0
+1338,Senators Debate New Budget Plan,1,2,2025-08-11,News,1623,1
+1339,UN Envoys Push for Ceasefire Talks,2,7,2025-08-11,News,1183,0
+1340,Airlines Face New Interest Rate Reality,3,10,2025-08-11,Feature,2980,1
+1341,AI Startups Race to Build Smarter Assistants,4,15,2025-08-11,News,490,1
+1342,Why We Public Transit,5,18,2025-08-11,Opinion,1026,1
+1343,Marine Biologists Rethink Sleep and Memory,8,32,2025-08-11,News,1140,1
+1344,Senators Face Pressure Over Housing Bill,1,5,2025-08-12,News,1276,1
+1345,Coastal Nations Push for Ceasefire Talks,2,6,2025-08-12,News,923,1
+1346,Airlines Rethink Office Return Plans,3,12,2025-08-12,News,1653,1
+1347,Why We Affordable Housing,5,20,2025-08-12,Opinion,1031,1
+1348,Doctors Discover Surprising Signal,8,34,2025-08-12,News,977,1
+1349,City Schools Prepare for Winter Storm,10,42,2025-08-12,News,752,1
+1350,Governors Signal Compromise on Spending,1,4,2025-08-13,News,1088,1
+1351,Governors Face Pressure Over Housing Bill,1,1,2025-08-13,News,1424,1
+1352,UN Envoys Meet Amid Rising Tensions,2,7,2025-08-13,News,1274,1
+1353,Banks Bet Big on Electric Future,3,11,2025-08-13,News,610,1
+1354,Why We Small Cities,5,21,2025-08-13,Opinion,617,1
+1355,The Knicks Return From Injury,6,22,2025-08-13,Feature,1166,0
+1356,Engineers Map a Warming Ocean,8,34,2025-08-13,Analysis,1024,1
+1357,Manhattan Shops Push for Safer Streets,10,44,2025-08-13,Analysis,829,1
+1358,City Council Members Debate New Budget Plan,1,1,2025-08-14,Analysis,1247,1
+1359,European Leaders Respond to Refugee Crisis,2,7,2025-08-14,News,432,1
+1360,Banks Rethink Office Return Plans,3,11,2025-08-14,News,899,1
+1361,The Case for Public Transit,5,19,2025-08-14,Opinion,1103,1
+1362,The Knicks Clinch a Thrilling Win,6,25,2025-08-14,Live Update,663,0
+1363,City Museums Draw Record Crowds,7,28,2025-08-14,Feature,2041,1
+1364,Doctors Track Vanishing Species,8,32,2025-08-14,News,808,1
+1365,Campaigns Weigh Election Reform,1,1,2025-08-15,News,1001,1
+1366,Coastal Nations Respond to Refugee Crisis,2,8,2025-08-15,News,1129,1
+1367,Tech Giants Report Stronger-Than-Expected Profits,3,10,2025-08-15,Live Update,790,0
+1368,Chip Companies Unveil Next-Generation Devices,4,15,2025-08-15,Analysis,1153,1
+1369,It Is Time to Rethink Public Transit,5,17,2025-08-15,Opinion,1279,1
+1370,City Museums Capture the City's Mood,7,28,2025-08-15,News,1439,1
+1371,Crispy Salmon Bowls,9,37,2025-08-15,Recipe,823,1
+1372,Voters Weigh Election Reform,1,4,2025-08-16,News,1847,1
+1373,Banks Report Stronger-Than-Expected Profits,3,11,2025-08-16,Live Update,720,0
+1374,Chip Companies Raise Prices Again,4,16,2025-08-16,Feature,1078,0
+1375,House Leaders Shift Strategy Before Midterms,1,3,2025-08-17,Analysis,941,1
+1376,Aid Groups Agree on New Climate Targets,2,7,2025-08-17,Analysis,1386,1
+1377,Automakers Report Stronger-Than-Expected Profits,3,11,2025-08-17,Analysis,873,1
+1378,Streaming Services Face New Privacy Rules,4,15,2025-08-17,News,1428,1
+1379,New Novels Draw Record Crowds,7,30,2025-08-17,News,476,1
+1380,House Leaders Debate New Budget Plan,1,1,2025-08-18,News,1276,1
+1381,European Leaders Push for Ceasefire Talks,2,6,2025-08-18,Live Update,597,0
+1382,Tech Giants Brace for Slower Holiday Sales,3,12,2025-08-18,Feature,2266,1
+1383,Why We Remote Work,5,20,2025-08-18,Opinion,781,1
+1384,Tennis Stars Struggle Through Losing Streak,6,22,2025-08-18,News,360,1
+1385,New Novels Draw Record Crowds,7,30,2025-08-18,News,786,1
+1386,Senators Face Pressure Over Housing Bill,1,5,2025-08-19,News,1776,1
+1387,Regional Allies Respond to Refugee Crisis,2,6,2025-08-19,Analysis,1235,1
+1388,Small Businesses Cut Jobs as Costs Rise,3,12,2025-08-19,News,1213,1
+1389,AI Startups Unveil Next-Generation Devices,4,14,2025-08-19,Live Update,558,0
+1390,Why We Remote Work,5,21,2025-08-19,Opinion,1051,1
+1391,Governors Face Pressure Over Housing Bill,1,3,2025-08-20,News,1339,1
+1392,Governors Weigh Election Reform,1,5,2025-08-20,News,1486,1
+1393,Trade Ministers Respond to Refugee Crisis,2,7,2025-08-20,Live Update,987,0
+1394,Tech Giants Bet Big on Electric Future,3,11,2025-08-20,News,859,1
+1395,AI Startups Prepare for Major Outage Risks,4,16,2025-08-20,Analysis,955,1
+1396,The Case for Remote Work,5,21,2025-08-20,Opinion,1339,1
+1397,Marathon Runners Struggle Through Losing Streak,6,22,2025-08-20,Feature,1227,1
+1398,Young Painters Find a New Audience,7,26,2025-08-20,Feature,1774,1
+1399,Doctors Rethink Sleep and Memory,8,34,2025-08-20,News,1762,1
+1400,Five-Ingredient Pasta With Greens,9,39,2025-08-20,Recipe,562,1
+1401,Senators Debate New Budget Plan,1,4,2025-08-21,Live Update,705,0
+1402,UN Envoys Sign Landmark Trade Pact,2,7,2025-08-21,News,1158,1
+1403,Airlines Cut Jobs as Costs Rise,3,12,2025-08-21,News,823,1
+1404,Liberty Players Struggle Through Losing Streak,6,24,2025-08-21,News,719,1
+1405,Slow-Cooker Lentil Soup,9,39,2025-08-21,Recipe,973,1
+1406,Governors Debate New Budget Plan,1,1,2025-08-22,Feature,1602,1
+1407,Coastal Nations Sign Landmark Trade Pact,2,8,2025-08-22,Analysis,778,0
+1408,Streaming Services Raise Prices Again,4,16,2025-08-22,News,822,1
+1409,The Hidden Cost of Remote Work,5,20,2025-08-22,Opinion,1233,0
+1410,Marathon Runners Clinch a Thrilling Win,6,24,2025-08-22,Feature,1672,1
+1411,New Novels Revive a Forgotten Classic,7,26,2025-08-22,News,1063,1
+1412,Marine Biologists Rethink Sleep and Memory,8,33,2025-08-22,News,972,1
+1413,Campaigns Debate New Budget Plan,1,1,2025-08-23,News,1472,1
+1414,Regional Allies Push for Ceasefire Talks,2,7,2025-08-23,News,1541,1
+1415,Social Platforms Struggle to Keep Users,4,16,2025-08-23,News,1014,1
+1416,Engineers Rethink Sleep and Memory,8,35,2025-08-23,Live Update,558,0
+1417,Weeknight Salmon Bowls,9,37,2025-08-23,Recipe,459,1
+1418,Queens Restaurants Adapt to New Rules,10,44,2025-08-23,News,1136,1
+1419,Voters Debate New Budget Plan,1,2,2025-08-24,News,1250,1
+1420,Regional Allies Warn of Food Shortages,2,7,2025-08-24,Analysis,1099,1
+1421,Slow-Cooker Salmon Bowls,9,38,2025-08-24,Recipe,720,1
+1422,Queens Restaurants Prepare for Winter Storm,10,44,2025-08-24,News,1466,1
+1423,Campaigns Signal Compromise on Spending,1,1,2025-08-25,News,968,0
+1424,Trade Ministers Agree on New Climate Targets,2,8,2025-08-25,News,1085,1
+1425,Small Businesses Rethink Office Return Plans,3,12,2025-08-25,News,785,1
+1426,It Is Time to Rethink Public Transit,5,17,2025-08-25,Opinion,1092,1
+1427,Easy Lemon Chicken,9,37,2025-08-25,Recipe,855,1
+1428,Governors Signal Compromise on Spending,1,3,2025-08-26,News,2104,1
+1429,Campaigns Clash Over Tax Proposal,1,5,2025-08-26,Live Update,616,0
+1430,Coastal Nations Push for Ceasefire Talks,2,8,2025-08-26,Live Update,531,0
+1431,Banks Brace for Slower Holiday Sales,3,11,2025-08-26,Live Update,575,0
+1432,Social Platforms Raise Prices Again,4,16,2025-08-26,News,945,1
+1433,House Leaders Weigh Election Reform,1,2,2025-08-27,News,1007,1
+1434,European Leaders Meet Amid Rising Tensions,2,6,2025-08-27,Analysis,1010,1
+1435,Banks Report Stronger-Than-Expected Profits,3,13,2025-08-27,Analysis,1438,1
+1436,Why We Screen Time,5,20,2025-08-27,Opinion,972,1
+1437,Rookie Quarterbacks Struggle Through Losing Streak,6,22,2025-08-27,News,614,0
+1438,Astronomers Track Vanishing Species,8,34,2025-08-27,News,1026,1
+1439,Campaigns Weigh Election Reform,1,3,2025-08-28,News,1310,1
+1440,Aid Groups Meet Amid Rising Tensions,2,6,2025-08-28,News,1110,0
+1441,Tech Giants Report Stronger-Than-Expected Profits,3,12,2025-08-28,News,922,1
+1442,Streaming Services Race to Build Smarter Assistants,4,14,2025-08-28,News,1205,1
+1443,Engineers Test a New Vaccine Approach,8,33,2025-08-28,News,1003,1
+1444,City Schools Adjust to Fare Changes,10,41,2025-08-28,News,572,1
+1445,Senators Clash Over Tax Proposal,1,5,2025-08-29,Feature,1458,1
+1446,Voters Weigh Election Reform,1,3,2025-08-29,Feature,2631,1
+1447,Coastal Nations Push for Ceasefire Talks,2,7,2025-08-29,Feature,1785,1
+1448,Tech Giants Cut Jobs as Costs Rise,3,13,2025-08-29,Live Update,852,0
+1449,AI Startups Unveil Next-Generation Devices,4,14,2025-08-29,Analysis,1045,1
+1450,One-Pan Salmon Bowls,9,36,2025-08-29,Recipe,751,1
+1451,Voters Face Pressure Over Housing Bill,1,3,2025-08-31,Analysis,1291,1
+1452,Regional Allies Respond to Refugee Crisis,2,8,2025-08-31,News,1121,1
+1453,Retailers Brace for Slower Holiday Sales,3,10,2025-08-31,News,1264,1
+1454,Liberty Players Break a Season Record,6,23,2025-08-31,News,722,1
+1455,Marine Biologists Map a Warming Ocean,8,33,2025-08-31,News,1401,1
+1456,House Leaders Clash Over Tax Proposal,1,5,2025-09-01,News,1218,1
+1457,City Council Members Signal Compromise on Spending,1,2,2025-09-01,News,1332,1
+1458,Trade Ministers Respond to Refugee Crisis,2,6,2025-09-01,News,690,1
+1459,Tech Giants Rethink Office Return Plans,3,10,2025-09-01,Feature,1704,1
+1460,Senators Face Pressure Over Housing Bill,1,2,2025-09-02,Analysis,1473,1
+1461,UN Envoys Warn of Food Shortages,2,6,2025-09-02,Analysis,1399,1
+1462,Small Businesses Face New Interest Rate Reality,3,9,2025-09-02,Analysis,617,1
+1463,What Leaders Miss About Affordable Housing,5,21,2025-09-02,Opinion,790,1
+1464,Liberty Players Clinch a Thrilling Win,6,22,2025-09-02,Analysis,832,1
+1465,Indie Filmmakers Tell Stories of Migration,7,26,2025-09-02,News,556,1
+1466,Weeknight Pasta With Greens,9,36,2025-09-02,Recipe,727,0
+1467,Campaigns Debate New Budget Plan,1,5,2025-09-03,News,1643,1
+1468,Regional Allies Agree on New Climate Targets,2,7,2025-09-03,Live Update,750,0
+1469,Tech Giants Rethink Office Return Plans,3,11,2025-09-03,News,1654,1
+1470,It Is Time to Rethink Affordable Housing,5,19,2025-09-03,Opinion,647,1
+1471,Young Painters Draw Record Crowds,7,26,2025-09-03,Live Update,693,0
+1472,Weeknight Lentil Soup,9,38,2025-09-03,Recipe,694,1
+1473,Governors Debate New Budget Plan,1,4,2025-09-04,Feature,2001,1
+1474,Campaigns Clash Over Tax Proposal,1,5,2025-09-04,News,795,1
+1475,Regional Allies Push for Ceasefire Talks,2,8,2025-09-04,News,1269,0
+1476,Liberty Players Make a Bold Trade,6,25,2025-09-04,Feature,2089,1
+1477,Crispy Lemon Chicken,9,40,2025-09-04,Recipe,726,1
+1478,Subway Riders Fight Rising Rents,10,42,2025-09-04,News,1249,1
+1479,Senators Face Pressure Over Housing Bill,1,3,2025-09-05,News,1413,1
+1480,European Leaders Sign Landmark Trade Pact,2,6,2025-09-05,News,1292,0
+1481,What Leaders Miss About Local News,5,18,2025-09-05,Opinion,1053,1
+1482,The Knicks Struggle Through Losing Streak,6,22,2025-09-05,News,637,1
+1483,Jazz Musicians Draw Record Crowds,7,29,2025-09-05,News,510,1
+1484,Campaigns Shift Strategy Before Midterms,1,3,2025-09-06,News,1255,0
+1485,Tech Giants Face New Interest Rate Reality,3,11,2025-09-06,News,870,1
+1486,Tennis Stars Make a Bold Trade,6,25,2025-09-06,News,841,1
+1487,Slow-Cooker Apple Cake,9,36,2025-09-06,Recipe,629,1
+1488,Governors Weigh Election Reform,1,2,2025-09-07,Feature,1458,1
+1489,Chip Companies Unveil Next-Generation Devices,4,15,2025-09-07,News,1460,1
+1490,The Yankees Struggle Through Losing Streak,6,24,2025-09-07,Live Update,250,0
+1491,Campaigns Weigh Election Reform,1,4,2025-09-08,Analysis,1745,1
+1492,House Leaders Clash Over Tax Proposal,1,2,2025-09-08,News,1770,1
+1493,Trade Ministers Agree on New Climate Targets,2,7,2025-09-08,Analysis,952,1
+1494,Banks Cut Jobs as Costs Rise,3,12,2025-09-08,News,580,1
+1495,Smartphone Makers Unveil Next-Generation Devices,4,16,2025-09-08,Feature,606,0
+1496,In Defense of Public Transit,5,18,2025-09-08,Opinion,1023,1
+1497,Liberty Players Make a Bold Trade,6,23,2025-09-08,News,1082,1
+1498,Governors Shift Strategy Before Midterms,1,3,2025-09-09,News,1023,1
+1499,Coastal Nations Sign Landmark Trade Pact,2,7,2025-09-09,News,1128,1
+1500,Retailers Cut Jobs as Costs Rise,3,9,2025-09-09,News,936,1
+1501,AI Startups Face New Privacy Rules,4,16,2025-09-09,Feature,2394,1
+1502,The Case for Small Cities,5,21,2025-09-09,Opinion,1318,1
+1503,Liberty Players Break a Season Record,6,23,2025-09-09,Feature,1603,1
+1504,House Leaders Shift Strategy Before Midterms,1,5,2025-09-10,News,1682,1
+1505,UN Envoys Sign Landmark Trade Pact,2,6,2025-09-10,News,1185,1
+1506,Tech Giants Report Stronger-Than-Expected Profits,3,11,2025-09-10,News,770,1
+1507,Smartphone Makers Struggle to Keep Users,4,14,2025-09-10,Feature,2170,1
+1508,What Leaders Miss About Local News,5,19,2025-09-10,Opinion,786,1
+1509,Indie Filmmakers Divide the Critics,7,26,2025-09-10,Live Update,550,0
+1510,Researchers Map a Warming Ocean,8,33,2025-09-10,News,1510,1
+1511,Five-Ingredient Pasta With Greens,9,40,2025-09-10,Recipe,649,1
+1512,Voters Shift Strategy Before Midterms,1,4,2025-09-11,News,1213,1
+1513,Coastal Nations Respond to Refugee Crisis,2,8,2025-09-11,News,670,1
+1514,Banks Brace for Slower Holiday Sales,3,13,2025-09-11,News,1322,1
+1515,Chip Companies Race to Build Smarter Assistants,4,16,2025-09-11,News,1071,1
+1516,It Is Time to Rethink Remote Work,5,18,2025-09-11,Opinion,759,1
+1517,Young Painters Revive a Forgotten Classic,7,28,2025-09-11,Analysis,1271,1
+1518,Researchers Map a Warming Ocean,8,32,2025-09-11,News,1287,1
+1519,Brooklyn Residents Celebrate a Neighborhood Revival,10,42,2025-09-11,News,519,1
+1520,House Leaders Face Pressure Over Housing Bill,1,1,2025-09-12,News,918,1
+1521,Governors Shift Strategy Before Midterms,1,4,2025-09-12,News,996,1
+1522,UN Envoys Warn of Food Shortages,2,7,2025-09-12,News,1533,1
+1523,Automakers Report Stronger-Than-Expected Profits,3,12,2025-09-12,Live Update,656,0
+1524,Regional Allies Meet Amid Rising Tensions,2,6,2025-09-13,News,1189,1
+1525,Cybersecurity Teams Raise Prices Again,4,14,2025-09-13,News,1233,0
+1526,What Leaders Miss About Small Cities,5,17,2025-09-13,Opinion,913,0
+1527,Rookie Quarterbacks Make a Bold Trade,6,22,2025-09-13,Live Update,690,0
+1528,City Museums Find a New Audience,7,29,2025-09-13,Feature,1773,1
+1529,One-Pan Lentil Soup,9,38,2025-09-13,Recipe,526,1
+1530,Senators Face Pressure Over Housing Bill,1,3,2025-09-14,News,1643,1
+1531,Coastal Nations Respond to Refugee Crisis,2,6,2025-09-14,News,1291,1
+1532,Banks Rethink Office Return Plans,3,12,2025-09-14,Feature,1852,0
+1533,One-Pan Lemon Chicken,9,37,2025-09-14,Recipe,830,1
+1534,Senators Face Pressure Over Housing Bill,1,1,2025-09-15,Feature,3850,1
+1535,Regional Allies Respond to Refugee Crisis,2,8,2025-09-15,Feature,2716,0
+1536,Tech Giants Cut Jobs as Costs Rise,3,11,2025-09-15,Feature,1927,1
+1537,In Defense of Affordable Housing,5,18,2025-09-15,Opinion,831,1
+1538,The Knicks Struggle Through Losing Streak,6,22,2025-09-15,News,457,1
+1539,Voters Debate New Budget Plan,1,4,2025-09-16,News,1216,1
+1540,Voters Debate New Budget Plan,1,1,2025-09-16,Analysis,1918,1
+1541,Regional Allies Sign Landmark Trade Pact,2,8,2025-09-16,News,997,1
+1542,Automakers Face New Interest Rate Reality,3,12,2025-09-16,Analysis,1419,1
+1543,City Museums Tell Stories of Migration,7,30,2025-09-16,Live Update,563,0
+1544,Senators Weigh Election Reform,1,1,2025-09-17,News,1261,1
+1545,Regional Allies Meet Amid Rising Tensions,2,7,2025-09-17,Analysis,2056,1
+1546,Small Businesses Bet Big on Electric Future,3,13,2025-09-17,Analysis,1477,1
+1547,What Leaders Miss About Screen Time,5,19,2025-09-17,Opinion,698,1
+1548,City Schools Adjust to Fare Changes,10,41,2025-09-17,News,251,0
+1549,City Council Members Weigh Election Reform,1,1,2025-09-18,News,1049,0
+1550,Governors Face Pressure Over Housing Bill,1,3,2025-09-18,News,1426,1
+1551,UN Envoys Agree on New Climate Targets,2,7,2025-09-18,Live Update,649,0
+1552,The Knicks Look Ahead to Playoffs,6,22,2025-09-18,News,701,1
+1553,City Schools Celebrate a Neighborhood Revival,10,42,2025-09-18,News,606,1
+1554,House Leaders Shift Strategy Before Midterms,1,3,2025-09-19,News,389,1
+1555,European Leaders Warn of Food Shortages,2,8,2025-09-19,News,1569,0
+1556,Airlines Face New Interest Rate Reality,3,13,2025-09-19,Feature,1290,0
+1557,The Yankees Return From Injury,6,24,2025-09-19,Feature,1596,1
+1558,Researchers Rethink Sleep and Memory,8,34,2025-09-19,News,1477,1
+1559,House Leaders Debate New Budget Plan,1,5,2025-09-20,Feature,4068,1
+1560,Indie Filmmakers Capture the City's Mood,7,30,2025-09-20,Feature,1123,1
+1561,Brooklyn Residents Prepare for Winter Storm,10,43,2025-09-20,Live Update,682,0
+1562,Senators Face Pressure Over Housing Bill,1,5,2025-09-21,News,1433,1
+1563,Automakers Report Stronger-Than-Expected Profits,3,11,2025-09-21,Analysis,945,1
+1564,Why We Remote Work,5,18,2025-09-21,Opinion,1267,1
+1565,The Yankees Return From Injury,6,24,2025-09-21,News,561,1
+1566,Voters Face Pressure Over Housing Bill,1,4,2025-09-22,News,936,1
+1567,Chip Companies Face New Privacy Rules,4,15,2025-09-22,Live Update,724,0
+1568,Liberty Players Look Ahead to Playoffs,6,22,2025-09-22,Feature,1382,1
+1569,Young Painters Find a New Audience,7,26,2025-09-22,Analysis,839,0
+1570,Weeknight Vegetable Curry,9,39,2025-09-22,Recipe,488,1
+1571,Voters Clash Over Tax Proposal,1,3,2025-09-23,News,1735,1
+1572,City Council Members Shift Strategy Before Midterms,1,5,2025-09-23,News,1088,1
+1573,Regional Allies Warn of Food Shortages,2,7,2025-09-23,News,1463,1
+1574,Small Businesses Brace for Slower Holiday Sales,3,11,2025-09-23,News,1569,1
+1575,Streaming Services Race to Build Smarter Assistants,4,15,2025-09-23,Analysis,415,1
+1576,What Leaders Miss About Remote Work,5,19,2025-09-23,Opinion,637,1
+1577,Marathon Runners Clinch a Thrilling Win,6,25,2025-09-23,Feature,1026,0
+1578,Slow-Cooker Vegetable Curry,9,36,2025-09-23,Recipe,596,0
+1579,Voters Shift Strategy Before Midterms,1,5,2025-09-24,Feature,1207,1
+1580,Coastal Nations Meet Amid Rising Tensions,2,6,2025-09-24,Analysis,1594,0
+1581,Small Businesses Bet Big on Electric Future,3,12,2025-09-24,News,667,1
+1582,Governors Debate New Budget Plan,1,4,2025-09-25,News,1291,1
+1583,Aid Groups Sign Landmark Trade Pact,2,8,2025-09-25,News,1537,1
+1584,Banks Brace for Slower Holiday Sales,3,11,2025-09-25,News,1152,1
+1585,Social Platforms Face New Privacy Rules,4,14,2025-09-25,News,1379,1
+1586,It Is Time to Rethink Screen Time,5,21,2025-09-25,Opinion,784,1
+1587,Tennis Stars Struggle Through Losing Streak,6,23,2025-09-25,News,652,1
+1588,New Novels Draw Record Crowds,7,30,2025-09-25,News,1078,1
+1589,Bronx Tenants Push for Safer Streets,10,42,2025-09-25,News,1226,1
+1590,Governors Clash Over Tax Proposal,1,4,2025-09-26,News,1817,1
+1591,Aid Groups Push for Ceasefire Talks,2,7,2025-09-26,News,1772,1
+1592,The Yankees Make a Bold Trade,6,23,2025-09-26,Analysis,517,1
+1593,Slow-Cooker Pasta With Greens,9,38,2025-09-26,Recipe,937,1
+1594,City Schools Prepare for Winter Storm,10,42,2025-09-26,Feature,1580,1
+1595,Campaigns Shift Strategy Before Midterms,1,5,2025-09-27,News,1307,1
+1596,Retailers Report Stronger-Than-Expected Profits,3,11,2025-09-27,Feature,2075,0
+1597,What Leaders Miss About Small Cities,5,21,2025-09-27,Opinion,439,0
+1598,The Yankees Clinch a Thrilling Win,6,25,2025-09-27,Analysis,644,1
+1599,Researchers Discover Surprising Signal,8,35,2025-09-27,Live Update,580,0
+1600,Weeknight Lentil Soup,9,38,2025-09-27,Recipe,567,1
+1601,Bronx Tenants Adjust to Fare Changes,10,43,2025-09-27,News,650,1
+1602,House Leaders Signal Compromise on Spending,1,2,2025-09-28,Analysis,2072,1
+1603,Aid Groups Agree on New Climate Targets,2,6,2025-09-28,News,1327,1
+1604,New Novels Tell Stories of Migration,7,26,2025-09-28,Analysis,949,1
+1605,Weeknight Salmon Bowls,9,36,2025-09-28,Recipe,842,1
+1606,City Council Members Signal Compromise on Spending,1,2,2025-09-29,News,644,1
+1607,Coastal Nations Agree on New Climate Targets,2,7,2025-09-29,Feature,1540,1
+1608,Tech Giants Rethink Office Return Plans,3,12,2025-09-29,News,1308,0
+1609,AI Startups Face New Privacy Rules,4,16,2025-09-29,Analysis,730,1
+1610,What Leaders Miss About Remote Work,5,19,2025-09-29,Opinion,1279,1
+1611,Broadway Shows Capture the City's Mood,7,29,2025-09-29,Live Update,540,0
+1612,City Council Members Clash Over Tax Proposal,1,3,2025-09-30,Feature,3447,1
+1613,Trade Ministers Meet Amid Rising Tensions,2,8,2025-09-30,News,1227,1
+1614,Airlines Rethink Office Return Plans,3,10,2025-09-30,News,1272,1
+1615,Streaming Services Raise Prices Again,4,16,2025-09-30,Feature,2152,1
+1616,The Hidden Cost of Remote Work,5,21,2025-09-30,Opinion,1207,1
+1617,One-Pan Vegetable Curry,9,37,2025-09-30,Recipe,363,1
+1618,City Council Members Debate New Budget Plan,1,4,2025-10-01,Live Update,457,0
+1619,UN Envoys Respond to Refugee Crisis,2,7,2025-10-01,Analysis,1162,1
+1620,Small Businesses Cut Jobs as Costs Rise,3,9,2025-10-01,News,1536,1
+1621,Marine Biologists Track Vanishing Species,8,31,2025-10-01,News,1472,1
+1622,Slow-Cooker Apple Cake,9,37,2025-10-01,Recipe,654,1
+1623,Campaigns Weigh Election Reform,1,2,2025-10-02,News,868,1
+1624,Aid Groups Respond to Refugee Crisis,2,8,2025-10-02,News,750,1
+1625,Tech Giants Bet Big on Electric Future,3,11,2025-10-02,News,1426,1
+1626,Streaming Services Unveil Next-Generation Devices,4,16,2025-10-02,News,711,1
+1627,In Defense of Screen Time,5,20,2025-10-02,Opinion,1251,1
+1628,Engineers Track Vanishing Species,8,33,2025-10-02,Live Update,807,0
+1629,Five-Ingredient Apple Cake,9,37,2025-10-02,Recipe,530,1
+1630,House Leaders Clash Over Tax Proposal,1,5,2025-10-03,Live Update,933,0
+1631,City Council Members Face Pressure Over Housing Bill,1,4,2025-10-03,News,1819,0
+1632,European Leaders Push for Ceasefire Talks,2,6,2025-10-03,News,1556,1
+1633,Small Businesses Face New Interest Rate Reality,3,10,2025-10-03,Analysis,862,1
+1634,Social Platforms Struggle to Keep Users,4,16,2025-10-03,Live Update,478,0
+1635,Doctors Build Cleaner Batteries,8,32,2025-10-03,News,1192,1
+1636,Manhattan Shops Celebrate a Neighborhood Revival,10,44,2025-10-03,Feature,2053,1
+1637,Governors Clash Over Tax Proposal,1,1,2025-10-04,Analysis,1475,1
+1638,Tech Giants Cut Jobs as Costs Rise,3,13,2025-10-04,Analysis,1288,1
+1639,AI Startups Struggle to Keep Users,4,14,2025-10-04,News,1036,0
+1640,In Defense of Small Cities,5,17,2025-10-04,Opinion,396,0
+1641,Liberty Players Return From Injury,6,24,2025-10-04,Analysis,795,1
+1642,Astronomers Test a New Vaccine Approach,8,33,2025-10-04,Feature,2003,1
+1643,Weeknight Vegetable Curry,9,38,2025-10-04,Recipe,1101,1
+1644,Cybersecurity Teams Race to Build Smarter Assistants,4,14,2025-10-05,Analysis,838,1
+1645,It Is Time to Rethink Small Cities,5,17,2025-10-05,Opinion,742,1
+1646,Marathon Runners Return From Injury,6,25,2025-10-05,News,904,0
+1647,New Novels Divide the Critics,7,30,2025-10-05,News,1107,1
+1648,Climate Scientists Map a Warming Ocean,8,34,2025-10-05,Analysis,1190,1
+1649,Easy Lentil Soup,9,39,2025-10-05,Recipe,311,1
+1650,Queens Restaurants Fight Rising Rents,10,45,2025-10-05,News,777,1
+1651,City Council Members Signal Compromise on Spending,1,3,2025-10-06,Live Update,1063,0
+1652,European Leaders Push for Ceasefire Talks,2,8,2025-10-06,Feature,1843,0
+1653,Banks Bet Big on Electric Future,3,9,2025-10-06,Feature,2275,1
+1654,AI Startups Raise Prices Again,4,15,2025-10-06,News,1323,1
+1655,The Knicks Clinch a Thrilling Win,6,22,2025-10-06,Analysis,855,1
+1656,Broadway Shows Divide the Critics,7,27,2025-10-06,News,1582,1
+1657,Crispy Salmon Bowls,9,39,2025-10-06,Recipe,944,1
+1658,Manhattan Shops Prepare for Winter Storm,10,44,2025-10-06,Analysis,1243,1
+1659,Governors Signal Compromise on Spending,1,1,2025-10-07,Analysis,1176,1
+1660,City Council Members Shift Strategy Before Midterms,1,5,2025-10-07,News,1729,0
+1661,Trade Ministers Meet Amid Rising Tensions,2,8,2025-10-07,News,670,0
+1662,Small Businesses Report Stronger-Than-Expected Profits,3,11,2025-10-07,Analysis,1356,1
+1663,Streaming Services Prepare for Major Outage Risks,4,16,2025-10-07,News,849,1
+1664,In Defense of Public Transit,5,20,2025-10-07,Opinion,1218,1
+1665,Doctors Map a Warming Ocean,8,32,2025-10-07,Feature,1423,1
+1666,Governors Face Pressure Over Housing Bill,1,5,2025-10-08,Live Update,897,0
+1667,UN Envoys Respond to Refugee Crisis,2,7,2025-10-08,Live Update,328,0
+1668,Cybersecurity Teams Struggle to Keep Users,4,15,2025-10-08,News,505,1
+1669,Senators Clash Over Tax Proposal,1,3,2025-10-09,Analysis,1612,1
+1670,Coastal Nations Warn of Food Shortages,2,6,2025-10-09,News,1225,1
+1671,Retailers Bet Big on Electric Future,3,9,2025-10-09,News,951,1
+1672,The Hidden Cost of Remote Work,5,19,2025-10-09,Opinion,709,1
+1673,The Yankees Struggle Through Losing Streak,6,25,2025-10-09,Feature,1724,1
+1674,Governors Signal Compromise on Spending,1,1,2025-10-10,Feature,2547,1
+1675,UN Envoys Push for Ceasefire Talks,2,8,2025-10-10,Live Update,577,0
+1676,Tech Giants Cut Jobs as Costs Rise,3,11,2025-10-10,News,400,1
+1677,Governors Face Pressure Over Housing Bill,1,3,2025-10-11,Feature,2509,1
+1678,Coastal Nations Agree on New Climate Targets,2,8,2025-10-11,News,1282,1
+1679,Tech Giants Cut Jobs as Costs Rise,3,11,2025-10-11,News,471,0
+1680,Smartphone Makers Unveil Next-Generation Devices,4,14,2025-10-11,News,1505,1
+1681,What Leaders Miss About Remote Work,5,18,2025-10-11,Opinion,661,1
+1682,Young Painters Tell Stories of Migration,7,27,2025-10-11,News,934,1
+1683,Crispy Vegetable Curry,9,40,2025-10-11,Recipe,611,1
+1684,Brooklyn Residents Prepare for Winter Storm,10,42,2025-10-11,News,1351,1
+1685,Governors Debate New Budget Plan,1,3,2025-10-12,Feature,2548,1
+1686,European Leaders Push for Ceasefire Talks,2,8,2025-10-12,Analysis,1145,1
+1687,Small Businesses Cut Jobs as Costs Rise,3,10,2025-10-12,News,1063,1
+1688,The Hidden Cost of Small Cities,5,21,2025-10-12,Opinion,1101,1
+1689,Marathon Runners Make a Bold Trade,6,24,2025-10-12,News,1145,1
+1690,House Leaders Clash Over Tax Proposal,1,4,2025-10-13,Live Update,1197,0
+1691,Trade Ministers Push for Ceasefire Talks,2,7,2025-10-13,News,976,1
+1692,Retailers Face New Interest Rate Reality,3,11,2025-10-13,Live Update,250,0
+1693,What Leaders Miss About Public Transit,5,20,2025-10-13,Opinion,1351,1
+1694,City Schools Push for Safer Streets,10,41,2025-10-13,Feature,1449,1
+1695,Senators Weigh Election Reform,1,5,2025-10-14,News,1351,1
+1696,Aid Groups Warn of Food Shortages,2,7,2025-10-14,Feature,2941,1
+1697,Airlines Cut Jobs as Costs Rise,3,10,2025-10-14,Feature,1204,1
+1698,Young Painters Tell Stories of Migration,7,26,2025-10-14,Analysis,1400,1
+1699,Engineers Build Cleaner Batteries,8,32,2025-10-14,News,877,1
+1700,One-Pan Lentil Soup,9,39,2025-10-14,Recipe,458,1
+1701,Subway Riders Fight Rising Rents,10,43,2025-10-14,News,846,1
+1702,Governors Face Pressure Over Housing Bill,1,2,2025-10-15,Feature,3283,1
+1703,Regional Allies Sign Landmark Trade Pact,2,6,2025-10-15,News,896,1
+1704,Airlines Cut Jobs as Costs Rise,3,9,2025-10-15,Feature,2552,1
+1705,Smartphone Makers Raise Prices Again,4,16,2025-10-15,News,1107,1
+1706,Marathon Runners Make a Bold Trade,6,24,2025-10-15,News,838,1
+1707,Five-Ingredient Pasta With Greens,9,38,2025-10-15,Recipe,483,1
+1708,Queens Restaurants Prepare for Winter Storm,10,41,2025-10-15,Feature,1569,0
+1709,Campaigns Shift Strategy Before Midterms,1,4,2025-10-16,Feature,1126,1
+1710,European Leaders Meet Amid Rising Tensions,2,8,2025-10-16,Analysis,1056,1
+1711,Tech Giants Brace for Slower Holiday Sales,3,9,2025-10-16,News,856,1
+1712,Streaming Services Race to Build Smarter Assistants,4,14,2025-10-16,News,969,1
+1713,Marathon Runners Make a Bold Trade,6,22,2025-10-16,News,569,1
+1714,City Council Members Debate New Budget Plan,1,4,2025-10-17,Live Update,545,0
+1715,Voters Signal Compromise on Spending,1,5,2025-10-17,News,1475,1
+1716,European Leaders Agree on New Climate Targets,2,8,2025-10-17,Analysis,1262,1
+1717,Small Businesses Report Stronger-Than-Expected Profits,3,12,2025-10-17,News,784,0
+1718,Chip Companies Raise Prices Again,4,16,2025-10-17,Live Update,575,0
+1719,The Yankees Struggle Through Losing Streak,6,22,2025-10-17,News,754,1
+1720,One-Pan Lemon Chicken,9,39,2025-10-17,Recipe,669,1
+1721,City Council Members Debate New Budget Plan,1,5,2025-10-18,Feature,1954,1
+1722,The Hidden Cost of Screen Time,5,20,2025-10-18,Opinion,828,1
+1723,Liberty Players Return From Injury,6,23,2025-10-18,Live Update,396,0
+1724,Crispy Pasta With Greens,9,36,2025-10-18,Recipe,637,1
+1725,Automakers Rethink Office Return Plans,3,13,2025-10-19,News,1214,1
+1726,Social Platforms Raise Prices Again,4,16,2025-10-19,News,1373,1
+1727,Governors Debate New Budget Plan,1,5,2025-10-20,Feature,2401,1
+1728,Trade Ministers Agree on New Climate Targets,2,6,2025-10-20,Analysis,1328,1
+1729,Automakers Cut Jobs as Costs Rise,3,13,2025-10-20,News,663,1
+1730,It Is Time to Rethink Local News,5,19,2025-10-20,Opinion,1088,1
+1731,Marathon Runners Look Ahead to Playoffs,6,22,2025-10-20,Feature,1432,1
+1732,Easy Lemon Chicken,9,38,2025-10-20,Recipe,541,1
+1733,Governors Clash Over Tax Proposal,1,4,2025-10-21,News,950,1
+1734,Tech Giants Brace for Slower Holiday Sales,3,10,2025-10-21,News,1061,1
+1735,Smartphone Makers Struggle to Keep Users,4,15,2025-10-21,News,1087,0
+1736,City Museums Revive a Forgotten Classic,7,30,2025-10-21,Analysis,823,1
+1737,Campaigns Shift Strategy Before Midterms,1,4,2025-10-22,News,1328,0
+1738,Aid Groups Meet Amid Rising Tensions,2,7,2025-10-22,Analysis,511,1
+1739,Banks Face New Interest Rate Reality,3,9,2025-10-22,Feature,1830,1
+1740,Streaming Services Raise Prices Again,4,14,2025-10-22,Live Update,513,0
+1741,Broadway Shows Draw Record Crowds,7,30,2025-10-22,News,933,1
+1742,City Council Members Weigh Election Reform,1,3,2025-10-23,News,1429,0
+1743,Tech Giants Rethink Office Return Plans,3,11,2025-10-23,Feature,2104,1
+1744,In Defense of Remote Work,5,17,2025-10-23,Opinion,1061,1
+1745,The Knicks Return From Injury,6,25,2025-10-23,Live Update,394,0
+1746,Voters Face Pressure Over Housing Bill,1,3,2025-10-24,Live Update,1009,0
+1747,Aid Groups Meet Amid Rising Tensions,2,6,2025-10-24,News,1450,1
+1748,Tech Giants Report Stronger-Than-Expected Profits,3,12,2025-10-24,Feature,1936,1
+1749,Smartphone Makers Prepare for Major Outage Risks,4,14,2025-10-24,Feature,1710,1
+1750,It Is Time to Rethink Small Cities,5,21,2025-10-24,Opinion,1471,1
+1751,The Knicks Return From Injury,6,25,2025-10-24,News,895,1
+1752,Marine Biologists Build Cleaner Batteries,8,31,2025-10-24,Live Update,800,0
+1753,Senators Debate New Budget Plan,1,4,2025-10-25,Analysis,2248,1
+1754,Regional Allies Warn of Food Shortages,2,6,2025-10-25,News,640,1
+1755,Easy Salmon Bowls,9,38,2025-10-25,Recipe,746,1
+1756,Senators Face Pressure Over Housing Bill,1,2,2025-10-26,Feature,2302,1
+1757,Coastal Nations Push for Ceasefire Talks,2,8,2025-10-26,News,534,0
+1758,Retailers Bet Big on Electric Future,3,12,2025-10-26,News,1029,1
+1759,Rookie Quarterbacks Struggle Through Losing Streak,6,25,2025-10-26,News,420,1
+1760,Broadway Shows Draw Record Crowds,7,26,2025-10-26,Analysis,747,1
+1761,Five-Ingredient Vegetable Curry,9,39,2025-10-26,Recipe,615,1
+1762,Voters Face Pressure Over Housing Bill,1,1,2025-10-27,Feature,2941,1
+1763,Governors Clash Over Tax Proposal,1,3,2025-10-27,News,1351,0
+1764,European Leaders Sign Landmark Trade Pact,2,8,2025-10-27,Live Update,663,0
+1765,Airlines Cut Jobs as Costs Rise,3,9,2025-10-27,News,1052,1
+1766,The Hidden Cost of Remote Work,5,21,2025-10-27,Opinion,1193,1
+1767,Young Painters Revive a Forgotten Classic,7,30,2025-10-27,News,880,1
+1768,Senators Face Pressure Over Housing Bill,1,2,2025-10-28,News,1322,1
+1769,House Leaders Face Pressure Over Housing Bill,1,2,2025-10-28,Feature,2044,1
+1770,UN Envoys Meet Amid Rising Tensions,2,8,2025-10-28,Live Update,677,0
+1771,Cybersecurity Teams Prepare for Major Outage Risks,4,14,2025-10-28,News,731,1
+1772,In Defense of Affordable Housing,5,19,2025-10-28,Opinion,1281,0
+1773,The Yankees Struggle Through Losing Streak,6,22,2025-10-28,Feature,1072,1
+1774,Doctors Discover Surprising Signal,8,35,2025-10-28,Live Update,504,0
+1775,Slow-Cooker Lentil Soup,9,36,2025-10-28,Recipe,960,0
+1776,Senators Signal Compromise on Spending,1,4,2025-10-29,News,916,1
+1777,European Leaders Sign Landmark Trade Pact,2,7,2025-10-29,Feature,2665,1
+1778,Small Businesses Rethink Office Return Plans,3,11,2025-10-29,Live Update,411,0
+1779,AI Startups Unveil Next-Generation Devices,4,14,2025-10-29,Analysis,1081,1
+1780,Why We Small Cities,5,18,2025-10-29,Opinion,900,1
+1781,Tennis Stars Break a Season Record,6,24,2025-10-29,News,834,0
+1782,Marine Biologists Track Vanishing Species,8,31,2025-10-29,Live Update,898,0
+1783,Slow-Cooker Pasta With Greens,9,37,2025-10-29,Recipe,887,1
+1784,House Leaders Shift Strategy Before Midterms,1,1,2025-10-30,News,1209,1
+1785,UN Envoys Sign Landmark Trade Pact,2,6,2025-10-30,News,1543,1
+1786,Why We Small Cities,5,17,2025-10-30,Opinion,715,1
+1787,Astronomers Build Cleaner Batteries,8,35,2025-10-30,News,1147,0
+1788,One-Pan Lemon Chicken,9,39,2025-10-30,Recipe,481,1
+1789,Campaigns Clash Over Tax Proposal,1,4,2025-10-31,News,1562,1
+1790,Regional Allies Meet Amid Rising Tensions,2,6,2025-10-31,News,1388,1
+1791,Automakers Brace for Slower Holiday Sales,3,12,2025-10-31,News,968,1
+1792,Cybersecurity Teams Raise Prices Again,4,16,2025-10-31,News,493,0
+1793,In Defense of Small Cities,5,20,2025-10-31,Opinion,805,1
+1794,Liberty Players Look Ahead to Playoffs,6,23,2025-10-31,Analysis,664,1
+1795,Marine Biologists Rethink Sleep and Memory,8,32,2025-10-31,News,1363,1
+1796,Voters Shift Strategy Before Midterms,1,5,2025-11-01,News,1264,0
+1797,Trade Ministers Respond to Refugee Crisis,2,8,2025-11-01,Analysis,1122,1
+1798,In Defense of Screen Time,5,20,2025-11-01,Opinion,539,1
+1799,Brooklyn Residents Fight Rising Rents,10,43,2025-11-01,News,538,1
+1800,Campaigns Debate New Budget Plan,1,3,2025-11-02,Feature,1153,1
+1801,Easy Apple Cake,9,39,2025-11-02,Recipe,805,1
+1802,Governors Weigh Election Reform,1,2,2025-11-03,Feature,2534,1
+1803,UN Envoys Push for Ceasefire Talks,2,7,2025-11-03,Analysis,1131,1
+1804,Airlines Rethink Office Return Plans,3,13,2025-11-03,News,1321,1
+1805,Why We Affordable Housing,5,18,2025-11-03,Opinion,871,1
+1806,Broadway Shows Divide the Critics,7,26,2025-11-03,News,1180,1
+1807,Governors Weigh Election Reform,1,1,2025-11-04,Analysis,1953,1
+1808,Coastal Nations Respond to Refugee Crisis,2,7,2025-11-04,News,1031,1
+1809,Automakers Bet Big on Electric Future,3,10,2025-11-04,News,1236,1
+1810,It Is Time to Rethink Small Cities,5,17,2025-11-04,Opinion,1399,1
+1811,City Museums Draw Record Crowds,7,30,2025-11-04,News,872,1
+1812,Weeknight Lentil Soup,9,40,2025-11-04,Recipe,892,1
+1813,Queens Restaurants Push for Safer Streets,10,43,2025-11-04,Analysis,1166,1
+1814,Campaigns Face Pressure Over Housing Bill,1,5,2025-11-05,Analysis,966,0
+1815,City Council Members Clash Over Tax Proposal,1,3,2025-11-05,News,1740,1
+1816,Regional Allies Warn of Food Shortages,2,6,2025-11-05,News,1544,1
+1817,Chip Companies Race to Build Smarter Assistants,4,16,2025-11-05,Analysis,1004,1
+1818,City Museums Draw Record Crowds,7,26,2025-11-05,News,958,1
+1819,Climate Scientists Build Cleaner Batteries,8,32,2025-11-05,Analysis,1517,1
+1820,One-Pan Lemon Chicken,9,40,2025-11-05,Recipe,885,1
+1821,Governors Face Pressure Over Housing Bill,1,3,2025-11-06,Feature,2944,1
+1822,City Council Members Signal Compromise on Spending,1,4,2025-11-06,Live Update,1126,0
+1823,Coastal Nations Agree on New Climate Targets,2,6,2025-11-06,News,1563,1
+1824,Retailers Report Stronger-Than-Expected Profits,3,11,2025-11-06,News,948,1
+1825,Cybersecurity Teams Race to Build Smarter Assistants,4,15,2025-11-06,Live Update,815,0
+1826,New Novels Find a New Audience,7,27,2025-11-06,News,1280,1
+1827,Voters Debate New Budget Plan,1,5,2025-11-07,Analysis,1279,0
+1828,Aid Groups Agree on New Climate Targets,2,7,2025-11-07,Feature,1598,1
+1829,Airlines Face New Interest Rate Reality,3,11,2025-11-07,Live Update,1054,0
+1830,Senators Signal Compromise on Spending,1,1,2025-11-08,News,1181,1
+1831,Brooklyn Residents Celebrate a Neighborhood Revival,10,45,2025-11-08,Feature,1740,0
+1832,Voters Weigh Election Reform,1,2,2025-11-09,Live Update,762,0
+1833,Banks Face New Interest Rate Reality,3,12,2025-11-09,News,1106,1
+1834,Social Platforms Struggle to Keep Users,4,14,2025-11-09,Feature,2998,1
+1835,Governors Weigh Election Reform,1,5,2025-11-10,Feature,2215,1
+1836,City Council Members Clash Over Tax Proposal,1,1,2025-11-10,Live Update,646,0
+1837,European Leaders Meet Amid Rising Tensions,2,6,2025-11-10,News,1411,1
+1838,Banks Rethink Office Return Plans,3,12,2025-11-10,News,980,1
+1839,Indie Filmmakers Capture the City's Mood,7,27,2025-11-10,Analysis,1664,1
+1840,One-Pan Lemon Chicken,9,36,2025-11-10,Recipe,583,1
+1841,Governors Face Pressure Over Housing Bill,1,4,2025-11-11,Feature,941,1
+1842,Regional Allies Warn of Food Shortages,2,6,2025-11-11,News,1223,1
+1843,Tech Giants Cut Jobs as Costs Rise,3,10,2025-11-11,Live Update,250,0
+1844,Streaming Services Race to Build Smarter Assistants,4,16,2025-11-11,Analysis,1000,1
+1845,City Council Members Shift Strategy Before Midterms,1,3,2025-11-12,News,2060,1
+1846,Regional Allies Push for Ceasefire Talks,2,6,2025-11-12,News,1181,1
+1847,Small Businesses Face New Interest Rate Reality,3,9,2025-11-12,News,413,1
+1848,Marathon Runners Struggle Through Losing Streak,6,24,2025-11-12,Analysis,696,1
+1849,Voters Signal Compromise on Spending,1,4,2025-11-13,News,738,1
+1850,Aid Groups Respond to Refugee Crisis,2,8,2025-11-13,News,899,0
+1851,Automakers Report Stronger-Than-Expected Profits,3,11,2025-11-13,Feature,3301,0
+1852,AI Startups Raise Prices Again,4,14,2025-11-13,News,1039,1
+1853,Broadway Shows Tell Stories of Migration,7,26,2025-11-13,Feature,1494,1
+1854,City Council Members Clash Over Tax Proposal,1,1,2025-11-14,News,836,1
+1855,Cybersecurity Teams Prepare for Major Outage Risks,4,16,2025-11-14,Feature,2282,1
+1856,Marathon Runners Return From Injury,6,24,2025-11-14,News,1025,0
+1857,Five-Ingredient Lentil Soup,9,36,2025-11-14,Recipe,421,1
+1858,Voters Clash Over Tax Proposal,1,2,2025-11-15,Analysis,998,1
+1859,Coastal Nations Sign Landmark Trade Pact,2,7,2025-11-15,News,1272,1
+1860,Small Businesses Bet Big on Electric Future,3,11,2025-11-15,News,829,1
+1861,AI Startups Unveil Next-Generation Devices,4,14,2025-11-15,Analysis,1257,1
+1862,City Museums Capture the City's Mood,7,29,2025-11-15,News,1239,1
+1863,One-Pan Pasta With Greens,9,36,2025-11-15,Recipe,648,1
+1864,Bronx Tenants Fight Rising Rents,10,44,2025-11-15,News,713,1
+1865,UN Envoys Warn of Food Shortages,2,7,2025-11-16,Feature,1141,1
+1866,Tech Giants Rethink Office Return Plans,3,10,2025-11-16,News,1667,0
+1867,Easy Apple Cake,9,38,2025-11-16,Recipe,778,1
+1868,City Council Members Shift Strategy Before Midterms,1,4,2025-11-17,Live Update,967,0
+1869,Coastal Nations Push for Ceasefire Talks,2,6,2025-11-17,Live Update,628,0
+1870,Cybersecurity Teams Prepare for Major Outage Risks,4,15,2025-11-17,News,670,1
+1871,Why We Remote Work,5,20,2025-11-17,Opinion,793,1
+1872,Marathon Runners Look Ahead to Playoffs,6,25,2025-11-17,News,1184,1
+1873,Manhattan Shops Celebrate a Neighborhood Revival,10,42,2025-11-17,Analysis,762,1
+1874,Voters Debate New Budget Plan,1,4,2025-11-18,News,596,1
+1875,Aid Groups Agree on New Climate Targets,2,8,2025-11-18,News,1112,1
+1876,Cybersecurity Teams Face New Privacy Rules,4,14,2025-11-18,News,938,1
+1877,The Knicks Return From Injury,6,25,2025-11-18,News,1025,1
+1878,Jazz Musicians Tell Stories of Migration,7,27,2025-11-18,News,1167,0
+1879,Marine Biologists Track Vanishing Species,8,32,2025-11-18,Feature,250,0
+1880,One-Pan Apple Cake,9,37,2025-11-18,Recipe,386,1
+1881,House Leaders Weigh Election Reform,1,4,2025-11-19,News,1637,1
+1882,Coastal Nations Push for Ceasefire Talks,2,6,2025-11-19,Feature,289,1
+1883,Chip Companies Face New Privacy Rules,4,15,2025-11-19,Feature,990,1
+1884,It Is Time to Rethink Affordable Housing,5,19,2025-11-19,Opinion,1061,0
+1885,Weeknight Salmon Bowls,9,38,2025-11-19,Recipe,1040,1
+1886,Subway Riders Fight Rising Rents,10,42,2025-11-19,Live Update,385,0
+1887,Senators Clash Over Tax Proposal,1,1,2025-11-20,Analysis,1131,1
+1888,UN Envoys Sign Landmark Trade Pact,2,8,2025-11-20,News,673,1
+1889,Small Businesses Report Stronger-Than-Expected Profits,3,11,2025-11-20,News,1272,1
+1890,The Yankees Make a Bold Trade,6,22,2025-11-20,News,965,1
+1891,Crispy Pasta With Greens,9,37,2025-11-20,Recipe,698,1
+1892,Brooklyn Residents Fight Rising Rents,10,42,2025-11-20,Live Update,298,0
+1893,Senators Shift Strategy Before Midterms,1,3,2025-11-21,News,1752,1
+1894,House Leaders Signal Compromise on Spending,1,4,2025-11-21,Feature,2638,1
+1895,Trade Ministers Meet Amid Rising Tensions,2,8,2025-11-21,Analysis,1480,1
+1896,Automakers Cut Jobs as Costs Rise,3,12,2025-11-21,Feature,2095,1
+1897,The Case for Small Cities,5,20,2025-11-21,Opinion,780,1
+1898,Subway Riders Celebrate a Neighborhood Revival,10,44,2025-11-21,Feature,2206,0
+1899,Voters Signal Compromise on Spending,1,2,2025-11-22,Live Update,813,0
+1900,The Hidden Cost of Small Cities,5,19,2025-11-22,Opinion,1222,0
+1901,Young Painters Find a New Audience,7,28,2025-11-22,News,250,1
+1902,City Schools Push for Safer Streets,10,44,2025-11-22,News,505,1
+1903,Senators Weigh Election Reform,1,5,2025-11-23,Analysis,570,1
+1904,UN Envoys Respond to Refugee Crisis,2,7,2025-11-23,News,1143,0
+1905,Small Businesses Report Stronger-Than-Expected Profits,3,9,2025-11-23,Analysis,1191,1
+1906,Rookie Quarterbacks Make a Bold Trade,6,23,2025-11-23,Feature,941,1
+1907,Slow-Cooker Pasta With Greens,9,39,2025-11-23,Recipe,892,1
+1908,Campaigns Face Pressure Over Housing Bill,1,2,2025-11-24,Analysis,750,1
+1909,Aid Groups Push for Ceasefire Talks,2,8,2025-11-24,News,1439,1
+1910,Automakers Bet Big on Electric Future,3,13,2025-11-24,Analysis,1656,1
+1911,The Case for Local News,5,20,2025-11-24,Opinion,1105,1
+1912,New Novels Draw Record Crowds,7,30,2025-11-24,Analysis,824,0
+1913,Marine Biologists Rethink Sleep and Memory,8,31,2025-11-24,News,1002,1
+1914,Slow-Cooker Vegetable Curry,9,38,2025-11-24,Recipe,799,0
+1915,Voters Weigh Election Reform,1,4,2025-11-25,Feature,4440,1
+1916,Aid Groups Agree on New Climate Targets,2,8,2025-11-25,News,805,1
+1917,Banks Face New Interest Rate Reality,3,12,2025-11-25,News,1422,0
+1918,It Is Time to Rethink Small Cities,5,19,2025-11-25,Opinion,960,1
+1919,New Novels Draw Record Crowds,7,26,2025-11-25,Analysis,893,1
+1920,Astronomers Discover Surprising Signal,8,35,2025-11-25,Analysis,964,1
+1921,Slow-Cooker Vegetable Curry,9,36,2025-11-25,Recipe,943,1
+1922,Brooklyn Residents Prepare for Winter Storm,10,45,2025-11-25,News,847,1
+1923,Voters Clash Over Tax Proposal,1,5,2025-11-26,Live Update,1274,0
+1924,Aid Groups Push for Ceasefire Talks,2,7,2025-11-26,Feature,1875,1
+1925,Banks Cut Jobs as Costs Rise,3,12,2025-11-26,News,997,1
+1926,Why We Screen Time,5,17,2025-11-26,Opinion,1065,1
+1927,The Yankees Clinch a Thrilling Win,6,23,2025-11-26,News,920,1
+1928,Senators Debate New Budget Plan,1,5,2025-11-27,Feature,3495,1
+1929,Campaigns Signal Compromise on Spending,1,3,2025-11-27,Live Update,936,0
+1930,Aid Groups Sign Landmark Trade Pact,2,6,2025-11-27,Analysis,1471,1
+1931,Small Businesses Report Stronger-Than-Expected Profits,3,9,2025-11-27,News,849,1
+1932,The Hidden Cost of Local News,5,18,2025-11-27,Opinion,992,1
+1933,Five-Ingredient Salmon Bowls,9,38,2025-11-27,Recipe,1082,1
+1934,Campaigns Debate New Budget Plan,1,4,2025-11-28,Analysis,1341,1
+1935,City Council Members Shift Strategy Before Midterms,1,4,2025-11-28,News,860,1
+1936,Coastal Nations Push for Ceasefire Talks,2,7,2025-11-28,News,851,1
+1937,Smartphone Makers Struggle to Keep Users,4,16,2025-11-28,Analysis,1101,1
+1938,It Is Time to Rethink Affordable Housing,5,18,2025-11-28,Opinion,1126,1
+1939,Jazz Musicians Tell Stories of Migration,7,29,2025-11-28,Feature,2296,1
+1940,Bronx Tenants Push for Safer Streets,10,41,2025-11-28,News,901,1
+1941,Governors Debate New Budget Plan,1,5,2025-11-29,News,2066,0
+1942,Aid Groups Warn of Food Shortages,2,8,2025-11-29,Feature,2379,0
+1943,Small Businesses Report Stronger-Than-Expected Profits,3,12,2025-11-29,News,1565,0
+1944,AI Startups Prepare for Major Outage Risks,4,14,2025-11-29,Analysis,913,1
+1945,The Yankees Struggle Through Losing Streak,6,24,2025-11-29,Live Update,548,0
+1946,Crispy Salmon Bowls,9,39,2025-11-29,Recipe,977,0
+1947,Governors Signal Compromise on Spending,1,4,2025-11-30,News,2194,1
+1948,Regional Allies Warn of Food Shortages,2,8,2025-11-30,News,1006,1
+1949,Automakers Bet Big on Electric Future,3,10,2025-11-30,Analysis,969,1
+1950,Researchers Rethink Sleep and Memory,8,34,2025-11-30,News,1625,1
+1951,One-Pan Salmon Bowls,9,37,2025-11-30,Recipe,395,1
+1952,Queens Restaurants Adjust to Fare Changes,10,45,2025-11-30,Analysis,904,1
+1953,Voters Shift Strategy Before Midterms,1,3,2025-12-01,Analysis,1540,1
+1954,UN Envoys Push for Ceasefire Talks,2,8,2025-12-01,News,1041,1
+1955,Automakers Rethink Office Return Plans,3,11,2025-12-01,Feature,734,1
+1956,AI Startups Unveil Next-Generation Devices,4,15,2025-12-01,Feature,1161,1
+1957,It Is Time to Rethink Small Cities,5,18,2025-12-01,Opinion,1107,1
+1958,Indie Filmmakers Draw Record Crowds,7,28,2025-12-01,Live Update,832,0
+1959,Subway Riders Adapt to New Rules,10,43,2025-12-01,Feature,2129,1
+1960,Voters Clash Over Tax Proposal,1,3,2025-12-02,Feature,2014,1
+1961,Aid Groups Agree on New Climate Targets,2,6,2025-12-02,Analysis,977,1
+1962,Banks Brace for Slower Holiday Sales,3,12,2025-12-02,News,1616,1
+1963,Streaming Services Face New Privacy Rules,4,14,2025-12-02,Feature,1535,1
+1964,In Defense of Remote Work,5,21,2025-12-02,Opinion,1407,1
+1965,The Knicks Clinch a Thrilling Win,6,24,2025-12-02,News,754,1
+1966,Five-Ingredient Apple Cake,9,38,2025-12-02,Recipe,731,1
+1967,House Leaders Debate New Budget Plan,1,5,2025-12-03,News,1407,1
+1968,UN Envoys Warn of Food Shortages,2,7,2025-12-03,Analysis,389,1
+1969,Tech Giants Report Stronger-Than-Expected Profits,3,11,2025-12-03,Analysis,627,1
+1970,Cybersecurity Teams Raise Prices Again,4,14,2025-12-03,Live Update,582,0
+1971,Liberty Players Make a Bold Trade,6,25,2025-12-03,Feature,1308,0
+1972,City Council Members Clash Over Tax Proposal,1,1,2025-12-04,News,1284,1
+1973,Voters Signal Compromise on Spending,1,1,2025-12-04,Analysis,1523,1
+1974,Coastal Nations Sign Landmark Trade Pact,2,8,2025-12-04,News,1328,0
+1975,Airlines Face New Interest Rate Reality,3,10,2025-12-04,News,537,1
+1976,The Hidden Cost of Local News,5,17,2025-12-04,Opinion,949,1
+1977,Liberty Players Look Ahead to Playoffs,6,24,2025-12-04,Feature,1276,0
+1978,Crispy Lemon Chicken,9,40,2025-12-04,Recipe,620,1
+1979,Senators Weigh Election Reform,1,4,2025-12-05,News,757,1
+1980,Regional Allies Meet Amid Rising Tensions,2,8,2025-12-05,News,250,1
+1981,Tech Giants Rethink Office Return Plans,3,12,2025-12-05,News,1348,1
+1982,Cybersecurity Teams Prepare for Major Outage Risks,4,14,2025-12-05,Analysis,668,1
+1983,It Is Time to Rethink Local News,5,20,2025-12-05,Opinion,1007,1
+1984,Crispy Lentil Soup,9,38,2025-12-05,Recipe,888,1
+1985,House Leaders Signal Compromise on Spending,1,1,2025-12-06,News,1703,1
+1986,Small Businesses Rethink Office Return Plans,3,9,2025-12-06,News,644,1
+1987,Why We Screen Time,5,17,2025-12-06,Opinion,655,1
+1988,Slow-Cooker Vegetable Curry,9,37,2025-12-06,Recipe,780,1
+1989,Voters Debate New Budget Plan,1,1,2025-12-07,Feature,1895,1
+1990,Regional Allies Sign Landmark Trade Pact,2,6,2025-12-07,Analysis,1415,0
+1991,City Museums Revive a Forgotten Classic,7,26,2025-12-07,Live Update,625,0
+1992,Easy Apple Cake,9,36,2025-12-07,Recipe,746,1
+1993,City Schools Celebrate a Neighborhood Revival,10,42,2025-12-07,Live Update,571,0
+1994,Governors Face Pressure Over Housing Bill,1,2,2025-12-08,Analysis,1807,1
+1995,Coastal Nations Agree on New Climate Targets,2,8,2025-12-08,Feature,1639,1
+1996,Small Businesses Report Stronger-Than-Expected Profits,3,13,2025-12-08,News,1847,0
+1997,Streaming Services Struggle to Keep Users,4,14,2025-12-08,Live Update,391,0
+1998,Campaigns Face Pressure Over Housing Bill,1,2,2025-12-09,Live Update,720,0
+1999,Governors Clash Over Tax Proposal,1,1,2025-12-09,Analysis,1741,1
+2000,Trade Ministers Push for Ceasefire Talks,2,8,2025-12-09,News,1099,1
+2001,Retailers Face New Interest Rate Reality,3,10,2025-12-09,News,1462,0
+2002,It Is Time to Rethink Screen Time,5,17,2025-12-09,Opinion,870,1
+2003,Marathon Runners Clinch a Thrilling Win,6,25,2025-12-09,Feature,972,1
+2004,Engineers Test a New Vaccine Approach,8,34,2025-12-09,News,851,1
+2005,Five-Ingredient Apple Cake,9,37,2025-12-09,Recipe,502,1
+2006,Governors Face Pressure Over Housing Bill,1,4,2025-12-10,News,1434,1
+2007,European Leaders Sign Landmark Trade Pact,2,8,2025-12-10,News,1600,1
+2008,The Hidden Cost of Small Cities,5,18,2025-12-10,Opinion,1168,1
+2009,Five-Ingredient Lemon Chicken,9,40,2025-12-10,Recipe,624,1
+2010,City Council Members Face Pressure Over Housing Bill,1,5,2025-12-11,News,1103,1
+2011,Banks Bet Big on Electric Future,3,11,2025-12-11,Live Update,840,0
+2012,The Yankees Return From Injury,6,24,2025-12-11,News,1067,1
+2013,Astronomers Track Vanishing Species,8,31,2025-12-11,Analysis,1654,1
+2014,One-Pan Salmon Bowls,9,36,2025-12-11,Recipe,553,1
+2015,City Council Members Clash Over Tax Proposal,1,1,2025-12-12,News,1379,1
+2016,Governors Shift Strategy Before Midterms,1,5,2025-12-12,Live Update,484,0
+2017,European Leaders Respond to Refugee Crisis,2,7,2025-12-12,News,831,1
+2018,Tech Giants Face New Interest Rate Reality,3,12,2025-12-12,News,800,1
+2019,Marine Biologists Build Cleaner Batteries,8,34,2025-12-12,News,1092,1
+2020,Five-Ingredient Pasta With Greens,9,37,2025-12-12,Recipe,615,1
+2021,Senators Shift Strategy Before Midterms,1,3,2025-12-13,Feature,1868,1
+2022,Smartphone Makers Face New Privacy Rules,4,14,2025-12-13,Live Update,775,0
+2023,Weeknight Apple Cake,9,38,2025-12-13,Recipe,839,1
+2024,Voters Debate New Budget Plan,1,5,2025-12-14,Analysis,1282,1
+2025,Trade Ministers Meet Amid Rising Tensions,2,6,2025-12-14,Analysis,1012,0
+2026,Climate Scientists Build Cleaner Batteries,8,33,2025-12-14,Analysis,644,1
+2027,Campaigns Clash Over Tax Proposal,1,3,2025-12-15,News,1347,1
+2028,Voters Shift Strategy Before Midterms,1,1,2025-12-15,Analysis,718,1
+2029,Regional Allies Warn of Food Shortages,2,6,2025-12-15,News,930,1
+2030,Chip Companies Prepare for Major Outage Risks,4,15,2025-12-15,News,806,1
+2031,The Hidden Cost of Small Cities,5,20,2025-12-15,Opinion,841,1
+2032,Young Painters Draw Record Crowds,7,30,2025-12-15,News,1031,1
+2033,City Council Members Face Pressure Over Housing Bill,1,2,2025-12-16,News,1218,1
+2034,Regional Allies Meet Amid Rising Tensions,2,7,2025-12-16,News,1424,1
+2035,AI Startups Unveil Next-Generation Devices,4,15,2025-12-16,News,463,1
+2036,Indie Filmmakers Revive a Forgotten Classic,7,26,2025-12-16,News,742,0
+2037,Easy Vegetable Curry,9,39,2025-12-16,Recipe,679,1
+2038,House Leaders Face Pressure Over Housing Bill,1,3,2025-12-17,News,1435,1
+2039,Campaigns Weigh Election Reform,1,1,2025-12-17,Feature,1351,1
+2040,Regional Allies Agree on New Climate Targets,2,8,2025-12-17,Analysis,1490,1
+2041,Small Businesses Brace for Slower Holiday Sales,3,12,2025-12-17,Feature,1438,1
+2042,In Defense of Affordable Housing,5,20,2025-12-17,Opinion,1065,0
+2043,Engineers Build Cleaner Batteries,8,33,2025-12-17,News,1533,0
+2044,Voters Debate New Budget Plan,1,4,2025-12-18,News,1629,1
+2045,Trade Ministers Meet Amid Rising Tensions,2,8,2025-12-18,News,384,1
+2046,Cybersecurity Teams Struggle to Keep Users,4,15,2025-12-18,News,474,1
+2047,It Is Time to Rethink Public Transit,5,17,2025-12-18,Opinion,837,1
+2048,Five-Ingredient Lemon Chicken,9,39,2025-12-18,Recipe,1286,1
+2049,Bronx Tenants Adjust to Fare Changes,10,44,2025-12-18,News,1350,0
+2050,Governors Weigh Election Reform,1,2,2025-12-19,News,663,1
+2051,Trade Ministers Push for Ceasefire Talks,2,8,2025-12-19,Feature,1935,1
+2052,Banks Bet Big on Electric Future,3,12,2025-12-19,News,381,1
+2053,Cybersecurity Teams Struggle to Keep Users,4,16,2025-12-19,Live Update,739,0
+2054,In Defense of Affordable Housing,5,18,2025-12-19,Opinion,1111,1
+2055,Slow-Cooker Pasta With Greens,9,37,2025-12-19,Recipe,637,1
+2056,Campaigns Debate New Budget Plan,1,1,2025-12-20,Analysis,1574,1
+2057,UN Envoys Warn of Food Shortages,2,7,2025-12-20,Analysis,1278,1
+2058,Marathon Runners Struggle Through Losing Streak,6,24,2025-12-20,Live Update,399,0
+2059,City Council Members Clash Over Tax Proposal,1,1,2025-12-21,News,1691,1
+2060,Regional Allies Sign Landmark Trade Pact,2,8,2025-12-21,News,1226,1
+2061,Tech Giants Rethink Office Return Plans,3,9,2025-12-21,News,1009,1
+2062,The Case for Affordable Housing,5,20,2025-12-21,Opinion,915,1
+2063,Senators Signal Compromise on Spending,1,5,2025-12-22,News,672,1
+2064,Trade Ministers Respond to Refugee Crisis,2,8,2025-12-22,Feature,2271,0
+2065,AI Startups Face New Privacy Rules,4,14,2025-12-22,Analysis,503,1
+2066,In Defense of Public Transit,5,20,2025-12-22,Opinion,923,1
+2067,The Yankees Clinch a Thrilling Win,6,25,2025-12-22,News,932,1
+2068,Voters Clash Over Tax Proposal,1,2,2025-12-23,News,1683,1
+2069,European Leaders Sign Landmark Trade Pact,2,7,2025-12-23,News,1408,1
+2070,The Hidden Cost of Remote Work,5,21,2025-12-23,Opinion,847,0
+2071,City Schools Adapt to New Rules,10,44,2025-12-23,News,650,1
+2072,Governors Signal Compromise on Spending,1,3,2025-12-24,News,1126,1
+2073,House Leaders Debate New Budget Plan,1,3,2025-12-24,News,2044,1
+2074,Aid Groups Sign Landmark Trade Pact,2,7,2025-12-24,News,962,1
+2075,What Leaders Miss About Remote Work,5,17,2025-12-24,Opinion,1250,1
+2076,New Novels Capture the City's Mood,7,28,2025-12-24,Feature,2602,1
+2077,Campaigns Weigh Election Reform,1,4,2025-12-25,News,1319,1
+2078,City Council Members Weigh Election Reform,1,3,2025-12-25,News,880,1
+2079,European Leaders Meet Amid Rising Tensions,2,7,2025-12-25,News,704,1
+2080,Banks Face New Interest Rate Reality,3,9,2025-12-25,News,1525,1
+2081,Smartphone Makers Prepare for Major Outage Risks,4,16,2025-12-25,News,1188,1
+2082,The Hidden Cost of Screen Time,5,21,2025-12-25,Opinion,947,1
+2083,Indie Filmmakers Capture the City's Mood,7,27,2025-12-25,News,1066,0
+2084,One-Pan Lentil Soup,9,37,2025-12-25,Recipe,544,1
+2085,Campaigns Shift Strategy Before Midterms,1,1,2025-12-26,News,675,0
+2086,Coastal Nations Push for Ceasefire Talks,2,8,2025-12-26,News,1404,1
+2087,Retailers Report Stronger-Than-Expected Profits,3,9,2025-12-26,News,1554,1
+2088,In Defense of Affordable Housing,5,18,2025-12-26,Opinion,1081,1
+2089,Doctors Build Cleaner Batteries,8,34,2025-12-26,Analysis,950,1
+2090,Weeknight Apple Cake,9,38,2025-12-26,Recipe,727,1
+2091,Campaigns Weigh Election Reform,1,5,2025-12-27,News,834,1
+2092,Broadway Shows Tell Stories of Migration,7,27,2025-12-27,News,829,1
+2093,Bronx Tenants Fight Rising Rents,10,41,2025-12-27,News,575,1
+2094,Senators Signal Compromise on Spending,1,1,2025-12-28,News,725,1
+2095,The Case for Local News,5,17,2025-12-28,Opinion,552,1
+2096,The Knicks Clinch a Thrilling Win,6,25,2025-12-28,Live Update,257,0
+2097,Indie Filmmakers Revive a Forgotten Classic,7,30,2025-12-28,News,1180,0
+2098,Weeknight Apple Cake,9,37,2025-12-28,Recipe,474,1
+2099,Queens Restaurants Fight Rising Rents,10,44,2025-12-28,News,971,1
+2100,Campaigns Shift Strategy Before Midterms,1,2,2025-12-29,Analysis,983,1
+2101,Campaigns Shift Strategy Before Midterms,1,1,2025-12-29,News,695,1
+2102,Regional Allies Push for Ceasefire Talks,2,7,2025-12-29,Analysis,998,1
+2103,Cybersecurity Teams Raise Prices Again,4,14,2025-12-29,Analysis,1115,1
+2104,Why We Remote Work,5,20,2025-12-29,Opinion,873,1
+2105,Bronx Tenants Celebrate a Neighborhood Revival,10,43,2025-12-29,Feature,1350,1
+2106,Campaigns Debate New Budget Plan,1,1,2025-12-30,Analysis,1894,0
+2107,European Leaders Push for Ceasefire Talks,2,7,2025-12-30,News,1651,1
+2108,Chip Companies Raise Prices Again,4,14,2025-12-30,News,1599,1
+2109,It Is Time to Rethink Screen Time,5,20,2025-12-30,Opinion,600,1
+2110,Rookie Quarterbacks Struggle Through Losing Streak,6,25,2025-12-30,Analysis,705,1
+2111,City Council Members Shift Strategy Before Midterms,1,2,2025-12-31,News,917,1
+2112,Regional Allies Sign Landmark Trade Pact,2,8,2025-12-31,News,1650,1
+2113,Retailers Face New Interest Rate Reality,3,11,2025-12-31,Analysis,986,1
+2114,Cybersecurity Teams Raise Prices Again,4,16,2025-12-31,News,953,1
+2115,In Defense of Local News,5,19,2025-12-31,Opinion,1201,1
+2116,Rookie Quarterbacks Struggle Through Losing Streak,6,24,2025-12-31,News,800,1
