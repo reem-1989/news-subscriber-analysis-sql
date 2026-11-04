@@ -147,7 +147,8 @@ To recreate the dataset from scratch, run `python scripts/generate_data.py` (Pyt
 This project was built with help from AI (Claude, by Anthropic). AI helped with:
 
 - Writing the Python script that generates the synthetic dataset
-- Drafting the database schema and the SQL queries
+- Drafting the database schema.
+- Refining SQL queries
 - Writing and editing this README
 
-My part was choosing the business questions, running the queries in MySQL, checking the results, and interpreting the findings and recommendations. I can explain every query in this repository.
+My part was choosing the business questions, writing the queries in MySQL, checking the results, and interpreting the findings and recommendations. I can explain every query in this repository.
